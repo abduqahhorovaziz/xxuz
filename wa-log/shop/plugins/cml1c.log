@@ -1,0 +1,20 @@
+
+2021-11-16 14:43:51 213.230.111.7
+array (
+  'message' => 'File not found',
+  'type' => 'sale',
+  'trace' => '#0 /home/miricouz/xx.uz/wa-apps/shop/plugins/cml1c/lib/actions/backend/shopCml1cPluginBackendRun.controller.php(1357): waFiles::readFile(\'/home/miricouz/...\', NULL, false)
+#1 /home/miricouz/xx.uz/wa-apps/shop/plugins/cml1c/lib/actions/frontend/shopCml1cPluginFrontend.controller.php(397): shopCml1cPluginBackendRunController->sendFile()
+#2 /home/miricouz/xx.uz/wa-apps/shop/plugins/cml1c/lib/actions/frontend/shopCml1cPluginFrontend.controller.php(113): shopCml1cPluginFrontendController->exportSale()
+#3 /home/miricouz/xx.uz/wa-system/controller/waController.class.php(21): shopCml1cPluginFrontendController->execute()
+#4 /home/miricouz/xx.uz/wa-system/controller/waFrontController.class.php(263): waController->run(NULL)
+#5 /home/miricouz/xx.uz/wa-apps/shop/lib/classes/shopFrontController.class.php(22): waFrontController->runController(Object(shopCml1cPluginFrontendController), NULL)
+#6 /home/miricouz/xx.uz/wa-system/controller/waFrontController.class.php(190): shopFrontController->runController(Object(shopCml1cPluginFrontendController), NULL)
+#7 /home/miricouz/xx.uz/wa-system/controller/waFrontController.class.php(84): waFrontController->execute(\'cml1c\', \'frontend\', NULL)
+#8 /home/miricouz/xx.uz/wa-system/controller/waDispatch.class.php(363): waFrontController->dispatch()
+#9 /home/miricouz/xx.uz/wa-system/controller/waDispatch.class.php(34): waDispatch->dispatchFrontend(\'cml1c/05de00f6-...\')
+#10 /home/miricouz/xx.uz/wa-system/waSystem.class.php(610): waDispatch->dispatch()
+#11 /home/miricouz/xx.uz/index.php(7): waSystem->dispatch()
+#12 {main}',
+  'ip' => '213.230.111.7',
+)

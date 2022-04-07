@@ -1,0 +1,144 @@
+
+2022-03-14 16:05:22 195.158.15.88
+Error=Couldn't send email message with link. Check email settings.
+Channel diagnostic:
+Type: waVerificationChannelEmail
+Info: array (
+  'id' => '1',
+  'name' => 'System templates',
+  'address' => 'tis@xx.uz',
+  'type' => 'email',
+  'create_datetime' => '2021-10-16 18:18:01',
+  'system' => '1',
+)
+Stats:array (
+  'total' => 18,
+  'total_failed' => 14,
+  'last_failed' => 14,
+  'last_send_dt' => '2022-03-14 16:05:22',
+  'last_fail_dt' => '2022-03-14 16:05:22',
+)
+Context=array (
+  'line' => 1335,
+  'file' => '/home/miricouz/xx.uz/wa-system/signup/actions/waSignup.action.php',
+)
+Action=shopSignupAction
+IP=195.158.15.88
+
+2022-03-14 16:05:22 195.158.15.88
+Error=Couldn't send message with confirmation secret (link or code).
+Looks like there is no any working channel in system. Check auth settings for this domain xx.uz
+Context=array (
+  'line' => 1383,
+  'file' => '/home/miricouz/xx.uz/wa-system/signup/actions/waSignup.action.php',
+)
+Action=shopSignupAction
+IP=195.158.15.88
+
+2022-03-14 16:06:06 195.158.15.88
+Error=Couldn't send email message with link. Check email settings.
+Channel diagnostic:
+Type: waVerificationChannelEmail
+Info: array (
+  'id' => '1',
+  'name' => 'System templates',
+  'address' => 'tis@xx.uz',
+  'type' => 'email',
+  'create_datetime' => '2021-10-16 18:18:01',
+  'system' => '1',
+)
+Stats:array (
+  'total' => 19,
+  'total_failed' => 15,
+  'last_failed' => 15,
+  'last_send_dt' => '2022-03-14 16:06:06',
+  'last_fail_dt' => '2022-03-14 16:06:06',
+)
+Context=array (
+  'line' => 1335,
+  'file' => '/home/miricouz/xx.uz/wa-system/signup/actions/waSignup.action.php',
+)
+Action=shopSignupAction
+IP=195.158.15.88
+
+2022-03-14 16:06:06 195.158.15.88
+Error=Couldn't send message with confirmation secret (link or code).
+Looks like there is no any working channel in system. Check auth settings for this domain xx.uz
+Context=array (
+  'line' => 1383,
+  'file' => '/home/miricouz/xx.uz/wa-system/signup/actions/waSignup.action.php',
+)
+Action=shopSignupAction
+IP=195.158.15.88
+
+2022-03-14 16:06:24 195.158.15.88
+Error=Couldn't send email message with link. Check email settings.
+Channel diagnostic:
+Type: waVerificationChannelEmail
+Info: array (
+  'id' => '1',
+  'name' => 'System templates',
+  'address' => 'tis@xx.uz',
+  'type' => 'email',
+  'create_datetime' => '2021-10-16 18:18:01',
+  'system' => '1',
+)
+Stats:array (
+  'total' => 20,
+  'total_failed' => 16,
+  'last_failed' => 16,
+  'last_send_dt' => '2022-03-14 16:06:24',
+  'last_fail_dt' => '2022-03-14 16:06:24',
+)
+Context=array (
+  'line' => 1335,
+  'file' => '/home/miricouz/xx.uz/wa-system/signup/actions/waSignup.action.php',
+)
+Action=shopSignupAction
+IP=195.158.15.88
+
+2022-03-14 16:06:24 195.158.15.88
+Error=Couldn't send message with confirmation secret (link or code).
+Looks like there is no any working channel in system. Check auth settings for this domain xx.uz
+Context=array (
+  'line' => 1383,
+  'file' => '/home/miricouz/xx.uz/wa-system/signup/actions/waSignup.action.php',
+)
+Action=shopSignupAction
+IP=195.158.15.88
+
+2022-03-14 16:06:25 195.158.15.88
+Error=Couldn't send email message with link. Check email settings.
+Channel diagnostic:
+Type: waVerificationChannelEmail
+Info: array (
+  'id' => '1',
+  'name' => 'System templates',
+  'address' => 'tis@xx.uz',
+  'type' => 'email',
+  'create_datetime' => '2021-10-16 18:18:01',
+  'system' => '1',
+)
+Stats:array (
+  'total' => 21,
+  'total_failed' => 17,
+  'last_failed' => 17,
+  'last_send_dt' => '2022-03-14 16:06:25',
+  'last_fail_dt' => '2022-03-14 16:06:25',
+)
+Context=array (
+  'line' => 1335,
+  'file' => '/home/miricouz/xx.uz/wa-system/signup/actions/waSignup.action.php',
+)
+Action=shopSignupAction
+IP=195.158.15.88
+
+2022-03-14 16:06:25 195.158.15.88
+Error=Couldn't send message with confirmation secret (link or code).
+Looks like there is no any working channel in system. Check auth settings for this domain xx.uz
+Context=array (
+  'line' => 1383,
+  'file' => '/home/miricouz/xx.uz/wa-system/signup/actions/waSignup.action.php',
+)
+Action=shopSignupAction
+IP=195.158.15.88

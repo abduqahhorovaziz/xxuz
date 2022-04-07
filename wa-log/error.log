@@ -1,0 +1,830 @@
+
+2021-10-19 19:37:20 213.230.111.7
+Uncaught Error: Not found file [/home/miricouz/xx.uz/wa-system/controller/waDispatch.class.php] for class [waDispatch]
+with code 500 in '/home/miricouz/xx.uz/wa-system/autoload/waAutoload.class.php' around line 96
+
+Call stack:
+## wa-system/autoload/waAutoload.class.php(96)
+#0 [internal function]: waAutoload->autoload('waDispatch')
+#1 wa-system/waSystem.class.php(609): spl_autoload_call('waDispatch')
+#2 index.php(7): waSystem->dispatch()
+#3 {main}
+
+2021-10-19 19:37:30 213.230.111.7
+Uncaught Error: Not found file [/home/miricouz/xx.uz/wa-system/controller/waDispatch.class.php] for class [waDispatch]
+with code 500 in '/home/miricouz/xx.uz/wa-system/autoload/waAutoload.class.php' around line 96
+
+Call stack:
+## wa-system/autoload/waAutoload.class.php(96)
+#0 [internal function]: waAutoload->autoload('waDispatch')
+#1 wa-system/waSystem.class.php(609): spl_autoload_call('waDispatch')
+#2 index.php(7): waSystem->dispatch()
+#3 {main}
+
+2021-10-19 19:37:40 213.230.111.7
+Uncaught Error: Not found file [/home/miricouz/xx.uz/wa-system/controller/waDispatch.class.php] for class [waDispatch]
+with code 500 in '/home/miricouz/xx.uz/wa-system/autoload/waAutoload.class.php' around line 96
+
+Call stack:
+## wa-system/autoload/waAutoload.class.php(96)
+#0 [internal function]: waAutoload->autoload('waDispatch')
+#1 wa-system/waSystem.class.php(609): spl_autoload_call('waDispatch')
+#2 index.php(7): waSystem->dispatch()
+#3 {main}
+
+2021-10-19 19:37:51 213.230.111.7
+Uncaught Error: Not found file [/home/miricouz/xx.uz/wa-system/controller/waDispatch.class.php] for class [waDispatch]
+with code 500 in '/home/miricouz/xx.uz/wa-system/autoload/waAutoload.class.php' around line 96
+
+Call stack:
+## wa-system/autoload/waAutoload.class.php(96)
+#0 [internal function]: waAutoload->autoload('waDispatch')
+#1 wa-system/waSystem.class.php(609): spl_autoload_call('waDispatch')
+#2 index.php(7): waSystem->dispatch()
+#3 {main}
+
+2021-10-19 19:38:00 213.230.111.7
+Uncaught Error: Not found file [/home/miricouz/xx.uz/wa-system/controller/waDispatch.class.php] for class [waDispatch]
+with code 500 in '/home/miricouz/xx.uz/wa-system/autoload/waAutoload.class.php' around line 96
+
+Call stack:
+## wa-system/autoload/waAutoload.class.php(96)
+#0 [internal function]: waAutoload->autoload('waDispatch')
+#1 wa-system/waSystem.class.php(609): spl_autoload_call('waDispatch')
+#2 index.php(7): waSystem->dispatch()
+#3 {main}
+
+2021-10-19 19:38:10 213.230.111.7
+Uncaught Error: Not found file [/home/miricouz/xx.uz/wa-system/controller/waDispatch.class.php] for class [waDispatch]
+with code 500 in '/home/miricouz/xx.uz/wa-system/autoload/waAutoload.class.php' around line 96
+
+Call stack:
+## wa-system/autoload/waAutoload.class.php(96)
+#0 [internal function]: waAutoload->autoload('waDispatch')
+#1 wa-system/waSystem.class.php(609): spl_autoload_call('waDispatch')
+#2 index.php(7): waSystem->dispatch()
+#3 {main}
+
+2021-10-19 19:38:20 213.230.111.7
+Uncaught Error: Not found file [/home/miricouz/xx.uz/wa-system/controller/waDispatch.class.php] for class [waDispatch]
+with code 500 in '/home/miricouz/xx.uz/wa-system/autoload/waAutoload.class.php' around line 96
+
+Call stack:
+## wa-system/autoload/waAutoload.class.php(96)
+#0 [internal function]: waAutoload->autoload('waDispatch')
+#1 wa-system/waSystem.class.php(609): spl_autoload_call('waDispatch')
+#2 index.php(7): waSystem->dispatch()
+#3 {main}
+
+2021-10-19 19:38:30 213.230.111.7
+Uncaught Error: Not found file [/home/miricouz/xx.uz/wa-system/controller/waDispatch.class.php] for class [waDispatch]
+with code 500 in '/home/miricouz/xx.uz/wa-system/autoload/waAutoload.class.php' around line 96
+
+Call stack:
+## wa-system/autoload/waAutoload.class.php(96)
+#0 [internal function]: waAutoload->autoload('waDispatch')
+#1 wa-system/waSystem.class.php(609): spl_autoload_call('waDispatch')
+#2 index.php(7): waSystem->dispatch()
+#3 {main}
+
+2021-10-19 19:38:40 213.230.111.7
+Uncaught Error: Not found file [/home/miricouz/xx.uz/wa-system/controller/waDispatch.class.php] for class [waDispatch]
+with code 500 in '/home/miricouz/xx.uz/wa-system/autoload/waAutoload.class.php' around line 96
+
+Call stack:
+## wa-system/autoload/waAutoload.class.php(96)
+#0 [internal function]: waAutoload->autoload('waDispatch')
+#1 wa-system/waSystem.class.php(609): spl_autoload_call('waDispatch')
+#2 index.php(7): waSystem->dispatch()
+#3 {main}
+
+2021-10-19 19:38:50 213.230.111.7
+Uncaught Error: Not found file [/home/miricouz/xx.uz/wa-system/controller/waDispatch.class.php] for class [waDispatch]
+with code 500 in '/home/miricouz/xx.uz/wa-system/autoload/waAutoload.class.php' around line 96
+
+Call stack:
+## wa-system/autoload/waAutoload.class.php(96)
+#0 [internal function]: waAutoload->autoload('waDispatch')
+#1 wa-system/waSystem.class.php(609): spl_autoload_call('waDispatch')
+#2 index.php(7): waSystem->dispatch()
+#3 {main}
+
+2021-10-19 19:39:00 213.230.111.7
+Uncaught Error: Not found file [/home/miricouz/xx.uz/wa-system/controller/waDispatch.class.php] for class [waDispatch]
+with code 500 in '/home/miricouz/xx.uz/wa-system/autoload/waAutoload.class.php' around line 96
+
+Call stack:
+## wa-system/autoload/waAutoload.class.php(96)
+#0 [internal function]: waAutoload->autoload('waDispatch')
+#1 wa-system/waSystem.class.php(609): spl_autoload_call('waDispatch')
+#2 index.php(7): waSystem->dispatch()
+#3 {main}
+
+2021-10-19 19:39:10 213.230.111.7
+Uncaught Error: Not found file [/home/miricouz/xx.uz/wa-system/controller/waDispatch.class.php] for class [waDispatch]
+with code 500 in '/home/miricouz/xx.uz/wa-system/autoload/waAutoload.class.php' around line 96
+
+Call stack:
+## wa-system/autoload/waAutoload.class.php(96)
+#0 [internal function]: waAutoload->autoload('waDispatch')
+#1 wa-system/waSystem.class.php(609): spl_autoload_call('waDispatch')
+#2 index.php(7): waSystem->dispatch()
+#3 {main}
+
+2021-10-19 19:39:20 213.230.111.7
+Uncaught Error: Not found file [/home/miricouz/xx.uz/wa-system/controller/waDispatch.class.php] for class [waDispatch]
+with code 500 in '/home/miricouz/xx.uz/wa-system/autoload/waAutoload.class.php' around line 96
+
+Call stack:
+## wa-system/autoload/waAutoload.class.php(96)
+#0 [internal function]: waAutoload->autoload('waDispatch')
+#1 wa-system/waSystem.class.php(609): spl_autoload_call('waDispatch')
+#2 index.php(7): waSystem->dispatch()
+#3 {main}
+
+2021-10-20 01:02:35 213.230.111.7
+Error 0: Curl error: 28# Resolving timed out after 10000 milliseconds at [https://updates.webasyst.com/download/2.0/updates/?v[installer]=2.3.4.622&v[shop]=8.21.0.49&v[shop/plugins/cml1c]=2.5.16.106&v[shop/plugins/redirect]=1.1.42447&v[site]=2.5.27.256&v[team]=1.1.6.148&v[wa-widgets/clock]=1.3.1.6&v[wa-widgets/news]=1.4.1.6&v[wa-widgets/weather]=1.4.1.8&v[wa-plugins/payment/cash]=1.0.0.23717&v[wa-plugins/shipping/courier]=1.4.11.67&v[wa-plugins/shipping/sd]=1.0.10.42&v[wa-plugins/shipping/worldwide]=1.1.4.15&hash=a622d50e31d44a038835bd815c434fb5&token=97a0520f2886ead7a539149aede352df&domain=eHgudXo%3D&signature=eyJwaHAiOiI3LjQuMjQiLCJjIjo4LCJhcGkiOiJsaXRlc3BlZWQiLCJvcyI6IkxpbnV4IiwiciI6IjMuMTAuMC05NjIuMy4yLmx2ZTEuNS42MS5lbDcueDg2XzY0Iiwic3FsX2FkYXB0ZXIiOiJteXNxbGkiLCJzcWwiOiIxMC4zLjMxIn0%3D&locale=en_US]
+
+2021-10-20 01:02:35 213.230.111.7
+Error 0: Curl error: 28# Resolving timed out after 10000 milliseconds at [https://updates.webasyst.com/download/2.0/updates/?v[installer]=2.3.4.622&v[shop]=8.21.0.49&v[shop/plugins/cml1c]=2.5.16.106&v[shop/plugins/redirect]=1.1.42447&v[site]=2.5.27.256&v[team]=1.1.6.148&v[wa-widgets/clock]=1.3.1.6&v[wa-widgets/news]=1.4.1.6&v[wa-widgets/weather]=1.4.1.8&v[wa-plugins/payment/cash]=1.0.0.23717&v[wa-plugins/shipping/courier]=1.4.11.67&v[wa-plugins/shipping/sd]=1.0.10.42&v[wa-plugins/shipping/worldwide]=1.1.4.15&hash=a622d50e31d44a038835bd815c434fb5&token=97a0520f2886ead7a539149aede352df&domain=eHgudXo%3D&signature=eyJwaHAiOiI3LjQuMjQiLCJjIjo4LCJhcGkiOiJsaXRlc3BlZWQiLCJvcyI6IkxpbnV4IiwiciI6IjMuMTAuMC05NjIuMy4yLmx2ZTEuNS42MS5lbDcueDg2XzY0Iiwic3FsX2FkYXB0ZXIiOiJteXNxbGkiLCJzcWwiOiIxMC4zLjMxIn0%3D&locale=en_US]
+
+2021-10-20 12:37:03 213.230.111.7
+Error 0: Curl error: 28# Resolving timed out after 10000 milliseconds at [https://updates.webasyst.com/download/2.0/updates/?v[installer]=2.3.4.622&v[shop]=8.21.0.49&v[shop/plugins/cml1c]=2.5.16.106&v[shop/plugins/redirect]=1.1.42447&v[site]=2.5.27.256&v[team]=1.1.6.148&v[wa-widgets/clock]=1.3.1.6&v[wa-widgets/news]=1.4.1.6&v[wa-widgets/weather]=1.4.1.8&v[wa-plugins/payment/cash]=1.0.0.23717&v[wa-plugins/shipping/courier]=1.4.11.67&v[wa-plugins/shipping/sd]=1.0.10.42&v[wa-plugins/shipping/worldwide]=1.1.4.15&hash=a622d50e31d44a038835bd815c434fb5&token=97a0520f2886ead7a539149aede352df&domain=eHgudXo%3D&signature=eyJwaHAiOiI3LjQuMjQiLCJjIjo4LCJhcGkiOiJsaXRlc3BlZWQiLCJvcyI6IkxpbnV4IiwiciI6IjMuMTAuMC05NjIuMy4yLmx2ZTEuNS42MS5lbDcueDg2XzY0Iiwic3FsX2FkYXB0ZXIiOiJteXNxbGkiLCJzcWwiOiIxMC4zLjMxIn0%3D&locale=en_US]
+
+2021-10-20 12:37:04 213.230.111.7
+Error 0: Curl error: 28# Resolving timed out after 10000 milliseconds at [https://updates.webasyst.com/download/2.0/updates/?v[installer]=2.3.4.622&v[shop]=8.21.0.49&v[shop/plugins/cml1c]=2.5.16.106&v[shop/plugins/redirect]=1.1.42447&v[site]=2.5.27.256&v[team]=1.1.6.148&v[wa-widgets/clock]=1.3.1.6&v[wa-widgets/news]=1.4.1.6&v[wa-widgets/weather]=1.4.1.8&v[wa-plugins/payment/cash]=1.0.0.23717&v[wa-plugins/shipping/courier]=1.4.11.67&v[wa-plugins/shipping/sd]=1.0.10.42&v[wa-plugins/shipping/worldwide]=1.1.4.15&hash=a622d50e31d44a038835bd815c434fb5&token=97a0520f2886ead7a539149aede352df&domain=eHgudXo%3D&signature=eyJwaHAiOiI3LjQuMjQiLCJjIjo4LCJhcGkiOiJsaXRlc3BlZWQiLCJvcyI6IkxpbnV4IiwiciI6IjMuMTAuMC05NjIuMy4yLmx2ZTEuNS42MS5lbDcueDg2XzY0Iiwic3FsX2FkYXB0ZXIiOiJteXNxbGkiLCJzcWwiOiIxMC4zLjMxIn0%3D&locale=en_US]
+
+2021-10-20 20:09:23 213.230.111.7
+Error 0: Curl error: 28# Resolving timed out after 10000 milliseconds at [https://updates.webasyst.com/download/2.0/updates/?v[installer]=2.3.4.622&v[shop]=8.21.0.49&v[shop/plugins/cml1c]=2.5.16.106&v[shop/plugins/redirect]=1.1.42447&v[site]=2.5.27.256&v[team]=1.1.6.148&v[wa-widgets/clock]=1.3.1.6&v[wa-widgets/news]=1.4.1.6&v[wa-widgets/weather]=1.4.1.8&v[wa-plugins/payment/cash]=1.0.0.23717&v[wa-plugins/shipping/courier]=1.4.11.67&v[wa-plugins/shipping/sd]=1.0.10.42&v[wa-plugins/shipping/worldwide]=1.1.4.15&hash=a622d50e31d44a038835bd815c434fb5&token=9c468abb2ae3cc49dfd2cd225cd23cc0&domain=eHgudXo%3D&signature=eyJwaHAiOiI3LjQuMjQiLCJjIjo4LCJhcGkiOiJsaXRlc3BlZWQiLCJvcyI6IkxpbnV4IiwiciI6IjMuMTAuMC05NjIuMy4yLmx2ZTEuNS42MS5lbDcueDg2XzY0Iiwic3FsX2FkYXB0ZXIiOiJteXNxbGkiLCJzcWwiOiIxMC4zLjMxIn0%3D&locale=en_US]
+
+2021-10-20 20:09:23 213.230.111.7
+Error 0: Curl error: 28# Resolving timed out after 10000 milliseconds at [https://updates.webasyst.com/download/2.0/updates/?v[installer]=2.3.4.622&v[shop]=8.21.0.49&v[shop/plugins/cml1c]=2.5.16.106&v[shop/plugins/redirect]=1.1.42447&v[site]=2.5.27.256&v[team]=1.1.6.148&v[wa-widgets/clock]=1.3.1.6&v[wa-widgets/news]=1.4.1.6&v[wa-widgets/weather]=1.4.1.8&v[wa-plugins/payment/cash]=1.0.0.23717&v[wa-plugins/shipping/courier]=1.4.11.67&v[wa-plugins/shipping/sd]=1.0.10.42&v[wa-plugins/shipping/worldwide]=1.1.4.15&hash=a622d50e31d44a038835bd815c434fb5&token=9c468abb2ae3cc49dfd2cd225cd23cc0&domain=eHgudXo%3D&signature=eyJwaHAiOiI3LjQuMjQiLCJjIjo4LCJhcGkiOiJsaXRlc3BlZWQiLCJvcyI6IkxpbnV4IiwiciI6IjMuMTAuMC05NjIuMy4yLmx2ZTEuNS42MS5lbDcueDg2XzY0Iiwic3FsX2FkYXB0ZXIiOiJteXNxbGkiLCJzcWwiOiIxMC4zLjMxIn0%3D&locale=en_US]
+
+2021-10-24 23:03:26 213.230.111.7
+cml1c/05de00f6-b746-4e61-a49d-fb958b9588fe/?type=sale&mode=checkauth
+Uncaught exception waDbException:
+Database error. See log for details. (2002)
+## wa-system/database/waDbMysqliAdapter.class.php(37)
+#0 wa-system/database/waDbAdapter.class.php(30): waDbMysqliAdapter->connect(Array)
+#1 wa-system/database/waDbConnector.class.php(52): waDbAdapter->__construct(Array)
+#2 wa-system/database/waModel.class.php(76): waDbConnector::getConnection('default', false)
+#3 wa-system/verification/models/waVerificationChannel.model.php(17): waModel->__construct(NULL, false)
+#4 wa-system/config/waAuthConfig.class.php(770): waVerificationChannelModel->__construct()
+#5 wa-system/config/waAuthConfig.class.php(63): waAuthConfig->getVerificationChannelModel()
+#6 wa-system/config/waDomainAuthConfig.class.php(720): waAuthConfig->ensureChannelExists()
+#7 wa-system/config/waDomainAuthConfig.class.php(96): waDomainAuthConfig->ensureVerificationChannelIdsConsistency()
+#8 wa-system/config/waAuthConfig.class.php(46): waDomainAuthConfig::factory('xx.uz')
+#9 wa-system/auth/waAuth.class.php(72): waAuthConfig::factory(Array)
+#10 wa-system/waSystem.class.php(226): waAuth->__construct(Array)
+#11 wa-system/waSystem.class.php(502): waSystem->getFactory('auth', 'waAuth', Array)
+#12 wa-system/user/waAuthUser.class.php(45): waSystem->getAuth()
+#13 wa-system/user/waAuthUser.class.php(27): waAuthUser->init()
+#14 wa-system/waSystem.class.php(251): waAuthUser->__construct(NULL, Array)
+#15 wa-system/waSystem.class.php(293): waSystem::getCommonFactory('auth_user', 'waAuthUser', Array, NULL)
+#16 wa-system/waSystem.class.php(874): waSystem->getUser()
+#17 wa-system/waSystem.class.php(1098): waSystem->getApps()
+#18 wa-system/routing/waRouting.class.php(221): waSystem->appExists('shop')
+#19 wa-system/controller/waDispatch.class.php(282): waRouting->dispatch()
+#20 wa-system/controller/waDispatch.class.php(34): waDispatch->dispatchFrontend('cml1c/05de00f6-...')
+#21 wa-system/waSystem.class.php(610): waDispatch->dispatch()
+#22 index.php(7): waSystem->dispatch()
+#23 {main}
+
+2021-10-24 23:03:32 213.230.111.7
+cml1c/05de00f6-b746-4e61-a49d-fb958b9588fe/?type=catalog&mode=checkauth
+Uncaught exception waDbException:
+Database error. See log for details. (2002)
+## wa-system/database/waDbMysqliAdapter.class.php(37)
+#0 wa-system/database/waDbAdapter.class.php(30): waDbMysqliAdapter->connect(Array)
+#1 wa-system/database/waDbConnector.class.php(52): waDbAdapter->__construct(Array)
+#2 wa-system/database/waModel.class.php(76): waDbConnector::getConnection('default', false)
+#3 wa-system/verification/models/waVerificationChannel.model.php(17): waModel->__construct(NULL, false)
+#4 wa-system/config/waAuthConfig.class.php(770): waVerificationChannelModel->__construct()
+#5 wa-system/config/waAuthConfig.class.php(63): waAuthConfig->getVerificationChannelModel()
+#6 wa-system/config/waDomainAuthConfig.class.php(720): waAuthConfig->ensureChannelExists()
+#7 wa-system/config/waDomainAuthConfig.class.php(96): waDomainAuthConfig->ensureVerificationChannelIdsConsistency()
+#8 wa-system/config/waAuthConfig.class.php(46): waDomainAuthConfig::factory('xx.uz')
+#9 wa-system/auth/waAuth.class.php(72): waAuthConfig::factory(Array)
+#10 wa-system/waSystem.class.php(226): waAuth->__construct(Array)
+#11 wa-system/waSystem.class.php(502): waSystem->getFactory('auth', 'waAuth', Array)
+#12 wa-system/user/waAuthUser.class.php(45): waSystem->getAuth()
+#13 wa-system/user/waAuthUser.class.php(27): waAuthUser->init()
+#14 wa-system/waSystem.class.php(251): waAuthUser->__construct(NULL, Array)
+#15 wa-system/waSystem.class.php(293): waSystem::getCommonFactory('auth_user', 'waAuthUser', Array, NULL)
+#16 wa-system/waSystem.class.php(874): waSystem->getUser()
+#17 wa-system/waSystem.class.php(1098): waSystem->getApps()
+#18 wa-system/routing/waRouting.class.php(221): waSystem->appExists('shop')
+#19 wa-system/controller/waDispatch.class.php(282): waRouting->dispatch()
+#20 wa-system/controller/waDispatch.class.php(34): waDispatch->dispatchFrontend('cml1c/05de00f6-...')
+#21 wa-system/waSystem.class.php(610): waDispatch->dispatch()
+#22 index.php(7): waSystem->dispatch()
+#23 {main}
+
+2021-10-24 23:18:06 213.230.111.7
+cml1c/05de00f6-b746-4e61-a49d-fb958b9588fe/?type=sale&mode=success
+Uncaught exception waDbException:
+Database error. See log for details. (2002)
+## wa-system/database/waDbMysqliAdapter.class.php(37)
+#0 wa-system/database/waDbAdapter.class.php(30): waDbMysqliAdapter->connect(Array)
+#1 wa-system/database/waDbConnector.class.php(52): waDbAdapter->__construct(Array)
+#2 wa-system/database/waModel.class.php(76): waDbConnector::getConnection('default', false)
+#3 wa-system/verification/models/waVerificationChannel.model.php(17): waModel->__construct(NULL, false)
+#4 wa-system/config/waAuthConfig.class.php(770): waVerificationChannelModel->__construct()
+#5 wa-system/config/waAuthConfig.class.php(63): waAuthConfig->getVerificationChannelModel()
+#6 wa-system/config/waDomainAuthConfig.class.php(720): waAuthConfig->ensureChannelExists()
+#7 wa-system/config/waDomainAuthConfig.class.php(96): waDomainAuthConfig->ensureVerificationChannelIdsConsistency()
+#8 wa-system/config/waAuthConfig.class.php(46): waDomainAuthConfig::factory('xx.uz')
+#9 wa-system/auth/waAuth.class.php(72): waAuthConfig::factory(Array)
+#10 wa-system/waSystem.class.php(226): waAuth->__construct(Array)
+#11 wa-system/waSystem.class.php(502): waSystem->getFactory('auth', 'waAuth', Array)
+#12 wa-system/user/waAuthUser.class.php(45): waSystem->getAuth()
+#13 wa-system/user/waAuthUser.class.php(27): waAuthUser->init()
+#14 wa-system/waSystem.class.php(251): waAuthUser->__construct(NULL, Array)
+#15 wa-system/waSystem.class.php(293): waSystem::getCommonFactory('auth_user', 'waAuthUser', Array, NULL)
+#16 wa-system/waSystem.class.php(874): waSystem->getUser()
+#17 wa-system/waSystem.class.php(1098): waSystem->getApps()
+#18 wa-system/routing/waRouting.class.php(221): waSystem->appExists('shop')
+#19 wa-system/controller/waDispatch.class.php(282): waRouting->dispatch()
+#20 wa-system/controller/waDispatch.class.php(34): waDispatch->dispatchFrontend('cml1c/05de00f6-...')
+#21 wa-system/waSystem.class.php(610): waDispatch->dispatch()
+#22 index.php(7): waSystem->dispatch()
+#23 {main}
+
+2021-10-24 23:18:10 213.230.111.7
+cml1c/05de00f6-b746-4e61-a49d-fb958b9588fe/?type=catalog&mode=checkauth
+Uncaught exception waDbException:
+Database error. See log for details. (2002)
+## wa-system/database/waDbMysqliAdapter.class.php(37)
+#0 wa-system/database/waDbAdapter.class.php(30): waDbMysqliAdapter->connect(Array)
+#1 wa-system/database/waDbConnector.class.php(52): waDbAdapter->__construct(Array)
+#2 wa-system/database/waModel.class.php(76): waDbConnector::getConnection('default', false)
+#3 wa-system/verification/models/waVerificationChannel.model.php(17): waModel->__construct(NULL, false)
+#4 wa-system/config/waAuthConfig.class.php(770): waVerificationChannelModel->__construct()
+#5 wa-system/config/waAuthConfig.class.php(63): waAuthConfig->getVerificationChannelModel()
+#6 wa-system/config/waDomainAuthConfig.class.php(720): waAuthConfig->ensureChannelExists()
+#7 wa-system/config/waDomainAuthConfig.class.php(96): waDomainAuthConfig->ensureVerificationChannelIdsConsistency()
+#8 wa-system/config/waAuthConfig.class.php(46): waDomainAuthConfig::factory('xx.uz')
+#9 wa-system/auth/waAuth.class.php(72): waAuthConfig::factory(Array)
+#10 wa-system/waSystem.class.php(226): waAuth->__construct(Array)
+#11 wa-system/waSystem.class.php(502): waSystem->getFactory('auth', 'waAuth', Array)
+#12 wa-system/user/waAuthUser.class.php(45): waSystem->getAuth()
+#13 wa-system/user/waAuthUser.class.php(27): waAuthUser->init()
+#14 wa-system/waSystem.class.php(251): waAuthUser->__construct(NULL, Array)
+#15 wa-system/waSystem.class.php(293): waSystem::getCommonFactory('auth_user', 'waAuthUser', Array, NULL)
+#16 wa-system/waSystem.class.php(874): waSystem->getUser()
+#17 wa-system/waSystem.class.php(1098): waSystem->getApps()
+#18 wa-system/routing/waRouting.class.php(221): waSystem->appExists('shop')
+#19 wa-system/controller/waDispatch.class.php(282): waRouting->dispatch()
+#20 wa-system/controller/waDispatch.class.php(34): waDispatch->dispatchFrontend('cml1c/05de00f6-...')
+#21 wa-system/waSystem.class.php(610): waDispatch->dispatch()
+#22 index.php(7): waSystem->dispatch()
+#23 {main}
+
+2021-10-24 23:22:20 213.230.111.7
+cml1c/05de00f6-b746-4e61-a49d-fb958b9588fe/?type=catalog&mode=checkauth
+Uncaught exception waDbException:
+Database error. See log for details. (2002)
+## wa-system/database/waDbMysqliAdapter.class.php(37)
+#0 wa-system/database/waDbAdapter.class.php(30): waDbMysqliAdapter->connect(Array)
+#1 wa-system/database/waDbConnector.class.php(52): waDbAdapter->__construct(Array)
+#2 wa-system/database/waModel.class.php(76): waDbConnector::getConnection('default', false)
+#3 wa-system/verification/models/waVerificationChannel.model.php(17): waModel->__construct(NULL, false)
+#4 wa-system/config/waAuthConfig.class.php(770): waVerificationChannelModel->__construct()
+#5 wa-system/config/waAuthConfig.class.php(63): waAuthConfig->getVerificationChannelModel()
+#6 wa-system/config/waDomainAuthConfig.class.php(720): waAuthConfig->ensureChannelExists()
+#7 wa-system/config/waDomainAuthConfig.class.php(96): waDomainAuthConfig->ensureVerificationChannelIdsConsistency()
+#8 wa-system/config/waAuthConfig.class.php(46): waDomainAuthConfig::factory('xx.uz')
+#9 wa-system/auth/waAuth.class.php(72): waAuthConfig::factory(Array)
+#10 wa-system/waSystem.class.php(226): waAuth->__construct(Array)
+#11 wa-system/waSystem.class.php(502): waSystem->getFactory('auth', 'waAuth', Array)
+#12 wa-system/user/waAuthUser.class.php(45): waSystem->getAuth()
+#13 wa-system/user/waAuthUser.class.php(27): waAuthUser->init()
+#14 wa-system/waSystem.class.php(251): waAuthUser->__construct(NULL, Array)
+#15 wa-system/waSystem.class.php(293): waSystem::getCommonFactory('auth_user', 'waAuthUser', Array, NULL)
+#16 wa-system/waSystem.class.php(874): waSystem->getUser()
+#17 wa-system/waSystem.class.php(1098): waSystem->getApps()
+#18 wa-system/routing/waRouting.class.php(221): waSystem->appExists('shop')
+#19 wa-system/controller/waDispatch.class.php(282): waRouting->dispatch()
+#20 wa-system/controller/waDispatch.class.php(34): waDispatch->dispatchFrontend('cml1c/05de00f6-...')
+#21 wa-system/waSystem.class.php(610): waDispatch->dispatch()
+#22 index.php(7): waSystem->dispatch()
+#23 {main}
+
+2021-10-24 23:22:31 213.230.111.7
+cml1c/05de00f6-b746-4e61-a49d-fb958b9588fe/?type=catalog&mode=checkauth
+Uncaught exception waDbException:
+Database error. See log for details. (2002)
+## wa-system/database/waDbMysqliAdapter.class.php(37)
+#0 wa-system/database/waDbAdapter.class.php(30): waDbMysqliAdapter->connect(Array)
+#1 wa-system/database/waDbConnector.class.php(52): waDbAdapter->__construct(Array)
+#2 wa-system/database/waModel.class.php(76): waDbConnector::getConnection('default', false)
+#3 wa-system/verification/models/waVerificationChannel.model.php(17): waModel->__construct(NULL, false)
+#4 wa-system/config/waAuthConfig.class.php(770): waVerificationChannelModel->__construct()
+#5 wa-system/config/waAuthConfig.class.php(63): waAuthConfig->getVerificationChannelModel()
+#6 wa-system/config/waDomainAuthConfig.class.php(720): waAuthConfig->ensureChannelExists()
+#7 wa-system/config/waDomainAuthConfig.class.php(96): waDomainAuthConfig->ensureVerificationChannelIdsConsistency()
+#8 wa-system/config/waAuthConfig.class.php(46): waDomainAuthConfig::factory('xx.uz')
+#9 wa-system/auth/waAuth.class.php(72): waAuthConfig::factory(Array)
+#10 wa-system/waSystem.class.php(226): waAuth->__construct(Array)
+#11 wa-system/waSystem.class.php(502): waSystem->getFactory('auth', 'waAuth', Array)
+#12 wa-system/user/waAuthUser.class.php(45): waSystem->getAuth()
+#13 wa-system/user/waAuthUser.class.php(27): waAuthUser->init()
+#14 wa-system/waSystem.class.php(251): waAuthUser->__construct(NULL, Array)
+#15 wa-system/waSystem.class.php(293): waSystem::getCommonFactory('auth_user', 'waAuthUser', Array, NULL)
+#16 wa-system/waSystem.class.php(874): waSystem->getUser()
+#17 wa-system/waSystem.class.php(1098): waSystem->getApps()
+#18 wa-system/routing/waRouting.class.php(221): waSystem->appExists('shop')
+#19 wa-system/controller/waDispatch.class.php(282): waRouting->dispatch()
+#20 wa-system/controller/waDispatch.class.php(34): waDispatch->dispatchFrontend('cml1c/05de00f6-...')
+#21 wa-system/waSystem.class.php(610): waDispatch->dispatch()
+#22 index.php(7): waSystem->dispatch()
+#23 {main}
+
+2021-10-24 23:24:23 213.230.111.7
+cml1c/05de00f6-b746-4e61-a49d-fb958b9588fe/?type=sale&mode=checkauth
+Uncaught exception waDbException:
+Database error. See log for details. (2002)
+## wa-system/database/waDbMysqliAdapter.class.php(37)
+#0 wa-system/database/waDbAdapter.class.php(30): waDbMysqliAdapter->connect(Array)
+#1 wa-system/database/waDbConnector.class.php(52): waDbAdapter->__construct(Array)
+#2 wa-system/database/waModel.class.php(76): waDbConnector::getConnection('default', false)
+#3 wa-system/verification/models/waVerificationChannel.model.php(17): waModel->__construct(NULL, false)
+#4 wa-system/config/waAuthConfig.class.php(770): waVerificationChannelModel->__construct()
+#5 wa-system/config/waAuthConfig.class.php(63): waAuthConfig->getVerificationChannelModel()
+#6 wa-system/config/waDomainAuthConfig.class.php(720): waAuthConfig->ensureChannelExists()
+#7 wa-system/config/waDomainAuthConfig.class.php(96): waDomainAuthConfig->ensureVerificationChannelIdsConsistency()
+#8 wa-system/config/waAuthConfig.class.php(46): waDomainAuthConfig::factory('xx.uz')
+#9 wa-system/auth/waAuth.class.php(72): waAuthConfig::factory(Array)
+#10 wa-system/waSystem.class.php(226): waAuth->__construct(Array)
+#11 wa-system/waSystem.class.php(502): waSystem->getFactory('auth', 'waAuth', Array)
+#12 wa-system/user/waAuthUser.class.php(45): waSystem->getAuth()
+#13 wa-system/user/waAuthUser.class.php(27): waAuthUser->init()
+#14 wa-system/waSystem.class.php(251): waAuthUser->__construct(NULL, Array)
+#15 wa-system/waSystem.class.php(293): waSystem::getCommonFactory('auth_user', 'waAuthUser', Array, NULL)
+#16 wa-system/waSystem.class.php(874): waSystem->getUser()
+#17 wa-system/waSystem.class.php(1098): waSystem->getApps()
+#18 wa-system/routing/waRouting.class.php(221): waSystem->appExists('shop')
+#19 wa-system/controller/waDispatch.class.php(282): waRouting->dispatch()
+#20 wa-system/controller/waDispatch.class.php(34): waDispatch->dispatchFrontend('cml1c/05de00f6-...')
+#21 wa-system/waSystem.class.php(610): waDispatch->dispatch()
+#22 index.php(7): waSystem->dispatch()
+#23 {main}
+
+2021-10-24 23:24:29 213.230.111.7
+cml1c/05de00f6-b746-4e61-a49d-fb958b9588fe/?type=catalog&mode=checkauth
+Uncaught exception waDbException:
+Database error. See log for details. (2002)
+## wa-system/database/waDbMysqliAdapter.class.php(37)
+#0 wa-system/database/waDbAdapter.class.php(30): waDbMysqliAdapter->connect(Array)
+#1 wa-system/database/waDbConnector.class.php(52): waDbAdapter->__construct(Array)
+#2 wa-system/database/waModel.class.php(76): waDbConnector::getConnection('default', false)
+#3 wa-system/verification/models/waVerificationChannel.model.php(17): waModel->__construct(NULL, false)
+#4 wa-system/config/waAuthConfig.class.php(770): waVerificationChannelModel->__construct()
+#5 wa-system/config/waAuthConfig.class.php(63): waAuthConfig->getVerificationChannelModel()
+#6 wa-system/config/waDomainAuthConfig.class.php(720): waAuthConfig->ensureChannelExists()
+#7 wa-system/config/waDomainAuthConfig.class.php(96): waDomainAuthConfig->ensureVerificationChannelIdsConsistency()
+#8 wa-system/config/waAuthConfig.class.php(46): waDomainAuthConfig::factory('xx.uz')
+#9 wa-system/auth/waAuth.class.php(72): waAuthConfig::factory(Array)
+#10 wa-system/waSystem.class.php(226): waAuth->__construct(Array)
+#11 wa-system/waSystem.class.php(502): waSystem->getFactory('auth', 'waAuth', Array)
+#12 wa-system/user/waAuthUser.class.php(45): waSystem->getAuth()
+#13 wa-system/user/waAuthUser.class.php(27): waAuthUser->init()
+#14 wa-system/waSystem.class.php(251): waAuthUser->__construct(NULL, Array)
+#15 wa-system/waSystem.class.php(293): waSystem::getCommonFactory('auth_user', 'waAuthUser', Array, NULL)
+#16 wa-system/waSystem.class.php(874): waSystem->getUser()
+#17 wa-system/waSystem.class.php(1098): waSystem->getApps()
+#18 wa-system/routing/waRouting.class.php(221): waSystem->appExists('shop')
+#19 wa-system/controller/waDispatch.class.php(282): waRouting->dispatch()
+#20 wa-system/controller/waDispatch.class.php(34): waDispatch->dispatchFrontend('cml1c/05de00f6-...')
+#21 wa-system/waSystem.class.php(610): waDispatch->dispatch()
+#22 index.php(7): waSystem->dispatch()
+#23 {main}
+
+2021-11-10 18:10:13 213.230.111.7
+cml1c/05de00f6-b746-4e61-a49d-fb958b9588fe/?type=sale&mode=checkauth
+Uncaught exception waDbException:
+Database error. See log for details. (2002)
+## wa-system/database/waDbMysqliAdapter.class.php(37)
+#0 wa-system/database/waDbAdapter.class.php(30): waDbMysqliAdapter->connect(Array)
+#1 wa-system/database/waDbConnector.class.php(52): waDbAdapter->__construct(Array)
+#2 wa-system/database/waModel.class.php(76): waDbConnector::getConnection('default', false)
+#3 wa-system/verification/models/waVerificationChannel.model.php(17): waModel->__construct(NULL, false)
+#4 wa-system/config/waAuthConfig.class.php(770): waVerificationChannelModel->__construct()
+#5 wa-system/config/waAuthConfig.class.php(63): waAuthConfig->getVerificationChannelModel()
+#6 wa-system/config/waDomainAuthConfig.class.php(720): waAuthConfig->ensureChannelExists()
+#7 wa-system/config/waDomainAuthConfig.class.php(96): waDomainAuthConfig->ensureVerificationChannelIdsConsistency()
+#8 wa-system/config/waAuthConfig.class.php(46): waDomainAuthConfig::factory('xx.uz')
+#9 wa-system/auth/waAuth.class.php(72): waAuthConfig::factory(Array)
+#10 wa-system/waSystem.class.php(226): waAuth->__construct(Array)
+#11 wa-system/waSystem.class.php(502): waSystem->getFactory('auth', 'waAuth', Array)
+#12 wa-system/user/waAuthUser.class.php(45): waSystem->getAuth()
+#13 wa-system/user/waAuthUser.class.php(27): waAuthUser->init()
+#14 wa-system/waSystem.class.php(251): waAuthUser->__construct(NULL, Array)
+#15 wa-system/waSystem.class.php(293): waSystem::getCommonFactory('auth_user', 'waAuthUser', Array, NULL)
+#16 wa-system/waSystem.class.php(874): waSystem->getUser()
+#17 wa-system/waSystem.class.php(1098): waSystem->getApps()
+#18 wa-system/routing/waRouting.class.php(221): waSystem->appExists('shop')
+#19 wa-system/controller/waDispatch.class.php(282): waRouting->dispatch()
+#20 wa-system/controller/waDispatch.class.php(34): waDispatch->dispatchFrontend('cml1c/05de00f6-...')
+#21 wa-system/waSystem.class.php(610): waDispatch->dispatch()
+#22 index.php(7): waSystem->dispatch()
+#23 {main}
+
+2021-11-10 18:10:17 213.230.111.7
+cml1c/05de00f6-b746-4e61-a49d-fb958b9588fe/?type=catalog&mode=checkauth
+Uncaught exception waDbException:
+Database error. See log for details. (2002)
+## wa-system/database/waDbMysqliAdapter.class.php(37)
+#0 wa-system/database/waDbAdapter.class.php(30): waDbMysqliAdapter->connect(Array)
+#1 wa-system/database/waDbConnector.class.php(52): waDbAdapter->__construct(Array)
+#2 wa-system/database/waModel.class.php(76): waDbConnector::getConnection('default', false)
+#3 wa-system/verification/models/waVerificationChannel.model.php(17): waModel->__construct(NULL, false)
+#4 wa-system/config/waAuthConfig.class.php(770): waVerificationChannelModel->__construct()
+#5 wa-system/config/waAuthConfig.class.php(63): waAuthConfig->getVerificationChannelModel()
+#6 wa-system/config/waDomainAuthConfig.class.php(720): waAuthConfig->ensureChannelExists()
+#7 wa-system/config/waDomainAuthConfig.class.php(96): waDomainAuthConfig->ensureVerificationChannelIdsConsistency()
+#8 wa-system/config/waAuthConfig.class.php(46): waDomainAuthConfig::factory('xx.uz')
+#9 wa-system/auth/waAuth.class.php(72): waAuthConfig::factory(Array)
+#10 wa-system/waSystem.class.php(226): waAuth->__construct(Array)
+#11 wa-system/waSystem.class.php(502): waSystem->getFactory('auth', 'waAuth', Array)
+#12 wa-system/user/waAuthUser.class.php(45): waSystem->getAuth()
+#13 wa-system/user/waAuthUser.class.php(27): waAuthUser->init()
+#14 wa-system/waSystem.class.php(251): waAuthUser->__construct(NULL, Array)
+#15 wa-system/waSystem.class.php(293): waSystem::getCommonFactory('auth_user', 'waAuthUser', Array, NULL)
+#16 wa-system/waSystem.class.php(874): waSystem->getUser()
+#17 wa-system/waSystem.class.php(1098): waSystem->getApps()
+#18 wa-system/routing/waRouting.class.php(221): waSystem->appExists('shop')
+#19 wa-system/controller/waDispatch.class.php(282): waRouting->dispatch()
+#20 wa-system/controller/waDispatch.class.php(34): waDispatch->dispatchFrontend('cml1c/05de00f6-...')
+#21 wa-system/waSystem.class.php(610): waDispatch->dispatch()
+#22 index.php(7): waSystem->dispatch()
+#23 {main}
+
+2022-01-28 19:33:25 213.230.111.7
+cml1c/05de00f6-b746-4e61-a49d-fb958b9588fe/?type=catalog&mode=checkauth
+Uncaught exception waDbException:
+Database error. See log for details. (2002)
+## wa-system/database/waDbMysqliAdapter.class.php(37)
+#0 wa-system/database/waDbAdapter.class.php(30): waDbMysqliAdapter->connect(Array)
+#1 wa-system/database/waDbConnector.class.php(52): waDbAdapter->__construct(Array)
+#2 wa-system/database/waModel.class.php(76): waDbConnector::getConnection('default', false)
+#3 wa-system/verification/models/waVerificationChannel.model.php(17): waModel->__construct(NULL, false)
+#4 wa-system/config/waAuthConfig.class.php(770): waVerificationChannelModel->__construct()
+#5 wa-system/config/waAuthConfig.class.php(63): waAuthConfig->getVerificationChannelModel()
+#6 wa-system/config/waDomainAuthConfig.class.php(720): waAuthConfig->ensureChannelExists()
+#7 wa-system/config/waDomainAuthConfig.class.php(96): waDomainAuthConfig->ensureVerificationChannelIdsConsistency()
+#8 wa-system/config/waAuthConfig.class.php(46): waDomainAuthConfig::factory('xx.uz')
+#9 wa-system/auth/waAuth.class.php(72): waAuthConfig::factory(Array)
+#10 wa-system/waSystem.class.php(226): waAuth->__construct(Array)
+#11 wa-system/waSystem.class.php(502): waSystem->getFactory('auth', 'waAuth', Array)
+#12 wa-system/user/waAuthUser.class.php(45): waSystem->getAuth()
+#13 wa-system/user/waAuthUser.class.php(27): waAuthUser->init()
+#14 wa-system/waSystem.class.php(251): waAuthUser->__construct(NULL, Array)
+#15 wa-system/waSystem.class.php(293): waSystem::getCommonFactory('auth_user', 'waAuthUser', Array, NULL)
+#16 wa-system/waSystem.class.php(874): waSystem->getUser()
+#17 wa-system/waSystem.class.php(1098): waSystem->getApps()
+#18 wa-system/routing/waRouting.class.php(221): waSystem->appExists('shop')
+#19 wa-system/controller/waDispatch.class.php(282): waRouting->dispatch()
+#20 wa-system/controller/waDispatch.class.php(34): waDispatch->dispatchFrontend('cml1c/05de00f6-...')
+#21 wa-system/waSystem.class.php(610): waDispatch->dispatch()
+#22 index.php(7): waSystem->dispatch()
+#23 {main}
+
+2022-01-28 19:33:35 213.230.111.7
+cml1c/05de00f6-b746-4e61-a49d-fb958b9588fe/?type=catalog&mode=checkauth
+Uncaught exception waDbException:
+Database error. See log for details. (2002)
+## wa-system/database/waDbMysqliAdapter.class.php(37)
+#0 wa-system/database/waDbAdapter.class.php(30): waDbMysqliAdapter->connect(Array)
+#1 wa-system/database/waDbConnector.class.php(52): waDbAdapter->__construct(Array)
+#2 wa-system/database/waModel.class.php(76): waDbConnector::getConnection('default', false)
+#3 wa-system/verification/models/waVerificationChannel.model.php(17): waModel->__construct(NULL, false)
+#4 wa-system/config/waAuthConfig.class.php(770): waVerificationChannelModel->__construct()
+#5 wa-system/config/waAuthConfig.class.php(63): waAuthConfig->getVerificationChannelModel()
+#6 wa-system/config/waDomainAuthConfig.class.php(720): waAuthConfig->ensureChannelExists()
+#7 wa-system/config/waDomainAuthConfig.class.php(96): waDomainAuthConfig->ensureVerificationChannelIdsConsistency()
+#8 wa-system/config/waAuthConfig.class.php(46): waDomainAuthConfig::factory('xx.uz')
+#9 wa-system/auth/waAuth.class.php(72): waAuthConfig::factory(Array)
+#10 wa-system/waSystem.class.php(226): waAuth->__construct(Array)
+#11 wa-system/waSystem.class.php(502): waSystem->getFactory('auth', 'waAuth', Array)
+#12 wa-system/user/waAuthUser.class.php(45): waSystem->getAuth()
+#13 wa-system/user/waAuthUser.class.php(27): waAuthUser->init()
+#14 wa-system/waSystem.class.php(251): waAuthUser->__construct(NULL, Array)
+#15 wa-system/waSystem.class.php(293): waSystem::getCommonFactory('auth_user', 'waAuthUser', Array, NULL)
+#16 wa-system/waSystem.class.php(874): waSystem->getUser()
+#17 wa-system/waSystem.class.php(1098): waSystem->getApps()
+#18 wa-system/routing/waRouting.class.php(221): waSystem->appExists('shop')
+#19 wa-system/controller/waDispatch.class.php(282): waRouting->dispatch()
+#20 wa-system/controller/waDispatch.class.php(34): waDispatch->dispatchFrontend('cml1c/05de00f6-...')
+#21 wa-system/waSystem.class.php(610): waDispatch->dispatch()
+#22 index.php(7): waSystem->dispatch()
+#23 {main}
+
+2022-02-08 19:16:25 213.230.111.7
+category/cleaning-consumables/
+Uncaught exception SmartyCompilerException:
+Syntax Error in template &quot;/home/miricouz/xx.uz/wa-data/public/shop/themes/hypermarket/products.short.html&quot;  on line 44 &quot;&lt;span&gt;{if $product.stock &gt; 0}{$product.stock)}{/if}&lt;/span&gt;&quot;  - Unexpected &quot;)&quot;, expected one of: &quot;}&quot; , &quot; &quot; , ATTR (0)
+#0 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templateparser.php(3144): Smarty_Internal_TemplateCompilerBase->trigger_template_error()
+#1 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templateparser.php(3209): Smarty_Internal_Templateparser->yy_syntax_error(39, ')')
+#2 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_smartytemplatecompiler.php(105): Smarty_Internal_Templateparser->doParse(39, ')')
+#3 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templatecompilerbase.php(206): Smarty_Internal_SmartyTemplateCompiler->doCompile('{strip}\n\n{$_sho...')
+#4 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_compile_include.php(146): Smarty_Internal_TemplateCompilerBase->compileTemplate(Object(Smarty_Internal_Template))
+#5 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templatecompilerbase.php(485): Smarty_Internal_Compile_Include->compile(Array, Object(Smarty_Internal_SmartyTemplateCompiler), Array, NULL, NULL)
+#6 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templatecompilerbase.php(259): Smarty_Internal_TemplateCompilerBase->callTagCompiler('include', Array, Array)
+#7 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templateparser.php(2388): Smarty_Internal_TemplateCompilerBase->compileTag('include', Array)
+#8 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templateparser.php(3101): Smarty_Internal_Templateparser->yy_r36()
+#9 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templateparser.php(3201): Smarty_Internal_Templateparser->yy_reduce(36)
+#10 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_smartytemplatecompiler.php(105): Smarty_Internal_Templateparser->doParse(10, '\n            ')
+#11 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templatecompilerbase.php(206): Smarty_Internal_SmartyTemplateCompiler->doCompile('{strip}\n\n{if !e...')
+#12 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_compile_include.php(146): Smarty_Internal_TemplateCompilerBase->compileTemplate(Object(Smarty_Internal_Template))
+#13 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templatecompilerbase.php(485): Smarty_Internal_Compile_Include->compile(Array, Object(Smarty_Internal_SmartyTemplateCompiler), Array, NULL, NULL)
+#14 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templatecompilerbase.php(259): Smarty_Internal_TemplateCompilerBase->callTagCompiler('include', Array, Array)
+#15 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templateparser.php(2388): Smarty_Internal_TemplateCompilerBase->compileTag('include', Array)
+#16 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templateparser.php(3101): Smarty_Internal_Templateparser->yy_r36()
+#17 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templateparser.php(3201): Smarty_Internal_Templateparser->yy_reduce(36)
+#18 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_smartytemplatecompiler.php(105): Smarty_Internal_Templateparser->doParse(10, '\n    ')
+#19 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templatecompilerbase.php(206): Smarty_Internal_SmartyTemplateCompiler->doCompile('{strip}\n\n{$wa->...')
+#20 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_template.php(187): Smarty_Internal_TemplateCompilerBase->compileTemplate(Object(Smarty_Internal_Template))
+#21 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templatebase.php(170): Smarty_Internal_Template->compileTemplateSource()
+#22 /home/miricouz/xx.uz/wa-system/view/waSmarty3View.class.php(144): Smarty_Internal_TemplateBase->fetch('file:category.h...', NULL)
+#23 /home/miricouz/xx.uz/wa-system/controller/waViewAction.class.php(190): waSmarty3View->fetch('file:category.h...', NULL)
+#24 /home/miricouz/xx.uz/wa-apps/shop/lib/actions/frontend/shopFrontend.action.php(145): waViewAction->display(false)
+#25 /home/miricouz/xx.uz/wa-system/controller/waViewController.class.php(86): shopFrontendAction->display()
+#26 /home/miricouz/xx.uz/wa-system/controller/waDefaultViewController.class.php(48): waViewController->executeAction(Object(shopFrontendCategoryAction))
+#27 /home/miricouz/xx.uz/wa-system/controller/waController.class.php(21): waDefaultViewController->execute()
+#28 /home/miricouz/xx.uz/wa-system/controller/waViewController.class.php(46): waController->run(NULL)
+#29 /home/miricouz/xx.uz/wa-system/controller/waFrontController.class.php(263): waViewController->run(NULL)
+#30 /home/miricouz/xx.uz/wa-apps/shop/lib/classes/shopFrontController.class.php(22): waFrontController->runController(Object(waDefaultViewController), NULL)
+#31 /home/miricouz/xx.uz/wa-system/controller/waFrontController.class.php(190): shopFrontController->runController(Object(waDefaultViewController), NULL)
+#32 /home/miricouz/xx.uz/wa-system/controller/waFrontController.class.php(84): waFrontController->execute(NULL, 'frontend', 'category')
+#33 /home/miricouz/xx.uz/wa-system/controller/waDispatch.class.php(363): waFrontController->dispatch()
+#34 /home/miricouz/xx.uz/wa-system/controller/waDispatch.class.php(34): waDispatch->dispatchFrontend('category/cleani...')
+#35 /home/miricouz/xx.uz/wa-system/waSystem.class.php(610): waDispatch->dispatch()
+#36 /home/miricouz/xx.uz/index.php(7): waSystem->dispatch()
+#37 {main}
+
+2022-02-08 19:39:29 213.230.111.7
+
+Uncaught exception SmartyCompilerException:
+Syntax Error in template &quot;/home/miricouz/xx.uz/wa-data/public/shop/themes/hypermarket/products.short.html&quot;  on line 44 &quot;&lt;meta itemprop=&quot;priceCurrency&quot; content=&quot;{$wa-&gt;shop-&gt;currency()}&quot;&gt;&quot;  - Unexpected &quot;
+                        &lt;&quot;, expected one of: &quot;|&quot; , &quot;}&quot; , &quot;-&gt;&quot; (0)
+#0 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templateparser.php(3144): Smarty_Internal_TemplateCompilerBase->trigger_template_error()
+#1 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templateparser.php(3209): Smarty_Internal_Templateparser->yy_syntax_error(69, '\n              ...')
+#2 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_smartytemplatecompiler.php(105): Smarty_Internal_Templateparser->doParse(69, '\n              ...')
+#3 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templatecompilerbase.php(206): Smarty_Internal_SmartyTemplateCompiler->doCompile('{strip}\n\n{$_sho...')
+#4 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_compile_include.php(146): Smarty_Internal_TemplateCompilerBase->compileTemplate(Object(Smarty_Internal_Template))
+#5 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templatecompilerbase.php(485): Smarty_Internal_Compile_Include->compile(Array, Object(Smarty_Internal_SmartyTemplateCompiler), Array, NULL, NULL)
+#6 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templatecompilerbase.php(259): Smarty_Internal_TemplateCompilerBase->callTagCompiler('include', Array, Array)
+#7 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templateparser.php(2388): Smarty_Internal_TemplateCompilerBase->compileTag('include', Array)
+#8 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templateparser.php(3101): Smarty_Internal_Templateparser->yy_r36()
+#9 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templateparser.php(3201): Smarty_Internal_Templateparser->yy_reduce(36)
+#10 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_smartytemplatecompiler.php(105): Smarty_Internal_Templateparser->doParse(10, '\n            ')
+#11 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templatecompilerbase.php(206): Smarty_Internal_SmartyTemplateCompiler->doCompile('{strip}\n\n{if !e...')
+#12 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_compile_include.php(146): Smarty_Internal_TemplateCompilerBase->compileTemplate(Object(Smarty_Internal_Template))
+#13 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templatecompilerbase.php(485): Smarty_Internal_Compile_Include->compile(Array, Object(Smarty_Internal_SmartyTemplateCompiler), Array, NULL, NULL)
+#14 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templatecompilerbase.php(259): Smarty_Internal_TemplateCompilerBase->callTagCompiler('include', Array, Array)
+#15 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templateparser.php(2388): Smarty_Internal_TemplateCompilerBase->compileTag('include', Array)
+#16 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templateparser.php(3101): Smarty_Internal_Templateparser->yy_r36()
+#17 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templateparser.php(3201): Smarty_Internal_Templateparser->yy_reduce(36)
+#18 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_smartytemplatecompiler.php(105): Smarty_Internal_Templateparser->doParse(10, '\n        ')
+#19 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templatecompilerbase.php(206): Smarty_Internal_SmartyTemplateCompiler->doCompile('{strip}\n\n{$wa->...')
+#20 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_template.php(187): Smarty_Internal_TemplateCompilerBase->compileTemplate(Object(Smarty_Internal_Template))
+#21 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templatebase.php(170): Smarty_Internal_Template->compileTemplateSource()
+#22 /home/miricouz/xx.uz/wa-system/view/waSmarty3View.class.php(144): Smarty_Internal_TemplateBase->fetch('file:home.html', NULL)
+#23 /home/miricouz/xx.uz/wa-system/controller/waViewAction.class.php(190): waSmarty3View->fetch('file:home.html', NULL)
+#24 /home/miricouz/xx.uz/wa-apps/shop/lib/actions/frontend/shopFrontend.action.php(145): waViewAction->display(false)
+#25 /home/miricouz/xx.uz/wa-system/controller/waViewController.class.php(86): shopFrontendAction->display()
+#26 /home/miricouz/xx.uz/wa-system/controller/waDefaultViewController.class.php(48): waViewController->executeAction(Object(shopFrontendAction))
+#27 /home/miricouz/xx.uz/wa-system/controller/waController.class.php(21): waDefaultViewController->execute()
+#28 /home/miricouz/xx.uz/wa-system/controller/waViewController.class.php(46): waController->run(NULL)
+#29 /home/miricouz/xx.uz/wa-system/controller/waFrontController.class.php(263): waViewController->run(NULL)
+#30 /home/miricouz/xx.uz/wa-apps/shop/lib/classes/shopFrontController.class.php(22): waFrontController->runController(Object(waDefaultViewController), NULL)
+#31 /home/miricouz/xx.uz/wa-system/controller/waFrontController.class.php(190): shopFrontController->runController(Object(waDefaultViewController), NULL)
+#32 /home/miricouz/xx.uz/wa-system/controller/waFrontController.class.php(84): waFrontController->execute(NULL, 'frontend', '')
+#33 /home/miricouz/xx.uz/wa-system/controller/waDispatch.class.php(363): waFrontController->dispatch()
+#34 /home/miricouz/xx.uz/wa-system/controller/waDispatch.class.php(34): waDispatch->dispatchFrontend('')
+#35 /home/miricouz/xx.uz/wa-system/waSystem.class.php(610): waDispatch->dispatch()
+#36 /home/miricouz/xx.uz/index.php(7): waSystem->dispatch()
+#37 {main}
+
+2022-02-08 19:39:47 213.230.111.7
+
+Uncaught exception SmartyCompilerException:
+Syntax Error in template &quot;/home/miricouz/xx.uz/wa-data/public/shop/themes/hypermarket/products.short.html&quot;  on line 47 &quot;&lt;meta itemprop=&quot;price&quot; content=&quot;{shop_currency($product.price, null, null, 0)}&quot;&gt;&quot; unclosed {foreach} tag (0)
+#0 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_compilebase.php(169): Smarty_Internal_TemplateCompilerBase->trigger_template_error('unclosed {forea...')
+#1 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_compile_if.php(85): Smarty_Internal_CompileBase->closeTag(Object(Smarty_Internal_SmartyTemplateCompiler), Array)
+#2 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templatecompilerbase.php(485): Smarty_Internal_Compile_Else->compile(Array, Object(Smarty_Internal_SmartyTemplateCompiler), Array, NULL, NULL)
+#3 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templatecompilerbase.php(259): Smarty_Internal_TemplateCompilerBase->callTagCompiler('else', Array, Array)
+#4 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templateparser.php(2393): Smarty_Internal_TemplateCompilerBase->compileTag('else', Array)
+#5 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templateparser.php(3101): Smarty_Internal_Templateparser->yy_r37()
+#6 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templateparser.php(3201): Smarty_Internal_Templateparser->yy_reduce(37)
+#7 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_smartytemplatecompiler.php(105): Smarty_Internal_Templateparser->doParse(10, '\n              ...')
+#8 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templatecompilerbase.php(206): Smarty_Internal_SmartyTemplateCompiler->doCompile('{strip}\n\n{$_sho...')
+#9 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_compile_include.php(146): Smarty_Internal_TemplateCompilerBase->compileTemplate(Object(Smarty_Internal_Template))
+#10 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templatecompilerbase.php(485): Smarty_Internal_Compile_Include->compile(Array, Object(Smarty_Internal_SmartyTemplateCompiler), Array, NULL, NULL)
+#11 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templatecompilerbase.php(259): Smarty_Internal_TemplateCompilerBase->callTagCompiler('include', Array, Array)
+#12 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templateparser.php(2388): Smarty_Internal_TemplateCompilerBase->compileTag('include', Array)
+#13 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templateparser.php(3101): Smarty_Internal_Templateparser->yy_r36()
+#14 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templateparser.php(3201): Smarty_Internal_Templateparser->yy_reduce(36)
+#15 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_smartytemplatecompiler.php(105): Smarty_Internal_Templateparser->doParse(10, '\n            ')
+#16 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templatecompilerbase.php(206): Smarty_Internal_SmartyTemplateCompiler->doCompile('{strip}\n\n{if !e...')
+#17 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_compile_include.php(146): Smarty_Internal_TemplateCompilerBase->compileTemplate(Object(Smarty_Internal_Template))
+#18 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templatecompilerbase.php(485): Smarty_Internal_Compile_Include->compile(Array, Object(Smarty_Internal_SmartyTemplateCompiler), Array, NULL, NULL)
+#19 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templatecompilerbase.php(259): Smarty_Internal_TemplateCompilerBase->callTagCompiler('include', Array, Array)
+#20 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templateparser.php(2388): Smarty_Internal_TemplateCompilerBase->compileTag('include', Array)
+#21 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templateparser.php(3101): Smarty_Internal_Templateparser->yy_r36()
+#22 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templateparser.php(3201): Smarty_Internal_Templateparser->yy_reduce(36)
+#23 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_smartytemplatecompiler.php(105): Smarty_Internal_Templateparser->doParse(10, '\n        ')
+#24 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templatecompilerbase.php(206): Smarty_Internal_SmartyTemplateCompiler->doCompile('{strip}\n\n{$wa->...')
+#25 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_template.php(187): Smarty_Internal_TemplateCompilerBase->compileTemplate(Object(Smarty_Internal_Template))
+#26 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templatebase.php(170): Smarty_Internal_Template->compileTemplateSource()
+#27 /home/miricouz/xx.uz/wa-system/view/waSmarty3View.class.php(144): Smarty_Internal_TemplateBase->fetch('file:home.html', NULL)
+#28 /home/miricouz/xx.uz/wa-system/controller/waViewAction.class.php(190): waSmarty3View->fetch('file:home.html', NULL)
+#29 /home/miricouz/xx.uz/wa-apps/shop/lib/actions/frontend/shopFrontend.action.php(145): waViewAction->display(false)
+#30 /home/miricouz/xx.uz/wa-system/controller/waViewController.class.php(86): shopFrontendAction->display()
+#31 /home/miricouz/xx.uz/wa-system/controller/waDefaultViewController.class.php(48): waViewController->executeAction(Object(shopFrontendAction))
+#32 /home/miricouz/xx.uz/wa-system/controller/waController.class.php(21): waDefaultViewController->execute()
+#33 /home/miricouz/xx.uz/wa-system/controller/waViewController.class.php(46): waController->run(NULL)
+#34 /home/miricouz/xx.uz/wa-system/controller/waFrontController.class.php(263): waViewController->run(NULL)
+#35 /home/miricouz/xx.uz/wa-apps/shop/lib/classes/shopFrontController.class.php(22): waFrontController->runController(Object(waDefaultViewController), NULL)
+#36 /home/miricouz/xx.uz/wa-system/controller/waFrontController.class.php(190): shopFrontController->runController(Object(waDefaultViewController), NULL)
+#37 /home/miricouz/xx.uz/wa-system/controller/waFrontController.class.php(84): waFrontController->execute(NULL, 'frontend', '')
+#38 /home/miricouz/xx.uz/wa-system/controller/waDispatch.class.php(363): waFrontController->dispatch()
+#39 /home/miricouz/xx.uz/wa-system/controller/waDispatch.class.php(34): waDispatch->dispatchFrontend('')
+#40 /home/miricouz/xx.uz/wa-system/waSystem.class.php(610): waDispatch->dispatch()
+#41 /home/miricouz/xx.uz/index.php(7): waSystem->dispatch()
+#42 {main}
+
+2022-02-08 19:40:42 213.230.111.7
+
+Uncaught exception SmartyCompilerException:
+Syntax Error in template &quot;/home/miricouz/xx.uz/wa-data/public/shop/themes/hypermarket/products.short.html&quot;  on line 84 &quot;{/strip}&quot; unclosed {if} tag (0)
+#0 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_compilebase.php(169): Smarty_Internal_TemplateCompilerBase->trigger_template_error('unclosed {if} t...')
+#1 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_compile_foreach.php(224): Smarty_Internal_CompileBase->closeTag(Object(Smarty_Internal_SmartyTemplateCompiler), Array)
+#2 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templatecompilerbase.php(485): Smarty_Internal_Compile_Foreachclose->compile(Array, Object(Smarty_Internal_SmartyTemplateCompiler), Array, NULL, NULL)
+#3 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templatecompilerbase.php(259): Smarty_Internal_TemplateCompilerBase->callTagCompiler('foreachclose', Array, Array)
+#4 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templateparser.php(2493): Smarty_Internal_TemplateCompilerBase->compileTag('foreachclose', Array)
+#5 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templateparser.php(3101): Smarty_Internal_Templateparser->yy_r58()
+#6 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templateparser.php(3201): Smarty_Internal_Templateparser->yy_reduce(58)
+#7 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_smartytemplatecompiler.php(105): Smarty_Internal_Templateparser->doParse(10, '\n\n')
+#8 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templatecompilerbase.php(206): Smarty_Internal_SmartyTemplateCompiler->doCompile('{strip}\n\n{$_sho...')
+#9 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_compile_include.php(146): Smarty_Internal_TemplateCompilerBase->compileTemplate(Object(Smarty_Internal_Template))
+#10 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templatecompilerbase.php(485): Smarty_Internal_Compile_Include->compile(Array, Object(Smarty_Internal_SmartyTemplateCompiler), Array, NULL, NULL)
+#11 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templatecompilerbase.php(259): Smarty_Internal_TemplateCompilerBase->callTagCompiler('include', Array, Array)
+#12 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templateparser.php(2388): Smarty_Internal_TemplateCompilerBase->compileTag('include', Array)
+#13 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templateparser.php(3101): Smarty_Internal_Templateparser->yy_r36()
+#14 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templateparser.php(3201): Smarty_Internal_Templateparser->yy_reduce(36)
+#15 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_smartytemplatecompiler.php(105): Smarty_Internal_Templateparser->doParse(10, '\n            ')
+#16 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templatecompilerbase.php(206): Smarty_Internal_SmartyTemplateCompiler->doCompile('{strip}\n\n{if !e...')
+#17 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_compile_include.php(146): Smarty_Internal_TemplateCompilerBase->compileTemplate(Object(Smarty_Internal_Template))
+#18 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templatecompilerbase.php(485): Smarty_Internal_Compile_Include->compile(Array, Object(Smarty_Internal_SmartyTemplateCompiler), Array, NULL, NULL)
+#19 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templatecompilerbase.php(259): Smarty_Internal_TemplateCompilerBase->callTagCompiler('include', Array, Array)
+#20 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templateparser.php(2388): Smarty_Internal_TemplateCompilerBase->compileTag('include', Array)
+#21 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templateparser.php(3101): Smarty_Internal_Templateparser->yy_r36()
+#22 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templateparser.php(3201): Smarty_Internal_Templateparser->yy_reduce(36)
+#23 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_smartytemplatecompiler.php(105): Smarty_Internal_Templateparser->doParse(10, '\n        ')
+#24 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templatecompilerbase.php(206): Smarty_Internal_SmartyTemplateCompiler->doCompile('{strip}\n\n{$wa->...')
+#25 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_template.php(187): Smarty_Internal_TemplateCompilerBase->compileTemplate(Object(Smarty_Internal_Template))
+#26 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templatebase.php(170): Smarty_Internal_Template->compileTemplateSource()
+#27 /home/miricouz/xx.uz/wa-system/view/waSmarty3View.class.php(144): Smarty_Internal_TemplateBase->fetch('file:home.html', NULL)
+#28 /home/miricouz/xx.uz/wa-system/controller/waViewAction.class.php(190): waSmarty3View->fetch('file:home.html', NULL)
+#29 /home/miricouz/xx.uz/wa-apps/shop/lib/actions/frontend/shopFrontend.action.php(145): waViewAction->display(false)
+#30 /home/miricouz/xx.uz/wa-system/controller/waViewController.class.php(86): shopFrontendAction->display()
+#31 /home/miricouz/xx.uz/wa-system/controller/waDefaultViewController.class.php(48): waViewController->executeAction(Object(shopFrontendAction))
+#32 /home/miricouz/xx.uz/wa-system/controller/waController.class.php(21): waDefaultViewController->execute()
+#33 /home/miricouz/xx.uz/wa-system/controller/waViewController.class.php(46): waController->run(NULL)
+#34 /home/miricouz/xx.uz/wa-system/controller/waFrontController.class.php(263): waViewController->run(NULL)
+#35 /home/miricouz/xx.uz/wa-apps/shop/lib/classes/shopFrontController.class.php(22): waFrontController->runController(Object(waDefaultViewController), NULL)
+#36 /home/miricouz/xx.uz/wa-system/controller/waFrontController.class.php(190): shopFrontController->runController(Object(waDefaultViewController), NULL)
+#37 /home/miricouz/xx.uz/wa-system/controller/waFrontController.class.php(84): waFrontController->execute(NULL, 'frontend', '')
+#38 /home/miricouz/xx.uz/wa-system/controller/waDispatch.class.php(363): waFrontController->dispatch()
+#39 /home/miricouz/xx.uz/wa-system/controller/waDispatch.class.php(34): waDispatch->dispatchFrontend('')
+#40 /home/miricouz/xx.uz/wa-system/waSystem.class.php(610): waDispatch->dispatch()
+#41 /home/miricouz/xx.uz/index.php(7): waSystem->dispatch()
+#42 {main}
+
+2022-02-08 19:40:43 213.230.111.7
+
+Uncaught exception SmartyCompilerException:
+Syntax Error in template &quot;/home/miricouz/xx.uz/wa-data/public/shop/themes/hypermarket/products.short.html&quot;  on line 84 &quot;{/strip}&quot; unclosed {if} tag (0)
+#0 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_compilebase.php(169): Smarty_Internal_TemplateCompilerBase->trigger_template_error('unclosed {if} t...')
+#1 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_compile_foreach.php(224): Smarty_Internal_CompileBase->closeTag(Object(Smarty_Internal_SmartyTemplateCompiler), Array)
+#2 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templatecompilerbase.php(485): Smarty_Internal_Compile_Foreachclose->compile(Array, Object(Smarty_Internal_SmartyTemplateCompiler), Array, NULL, NULL)
+#3 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templatecompilerbase.php(259): Smarty_Internal_TemplateCompilerBase->callTagCompiler('foreachclose', Array, Array)
+#4 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templateparser.php(2493): Smarty_Internal_TemplateCompilerBase->compileTag('foreachclose', Array)
+#5 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templateparser.php(3101): Smarty_Internal_Templateparser->yy_r58()
+#6 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templateparser.php(3201): Smarty_Internal_Templateparser->yy_reduce(58)
+#7 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_smartytemplatecompiler.php(105): Smarty_Internal_Templateparser->doParse(10, '\n\n')
+#8 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templatecompilerbase.php(206): Smarty_Internal_SmartyTemplateCompiler->doCompile('{strip}\n\n{$_sho...')
+#9 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_compile_include.php(146): Smarty_Internal_TemplateCompilerBase->compileTemplate(Object(Smarty_Internal_Template))
+#10 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templatecompilerbase.php(485): Smarty_Internal_Compile_Include->compile(Array, Object(Smarty_Internal_SmartyTemplateCompiler), Array, NULL, NULL)
+#11 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templatecompilerbase.php(259): Smarty_Internal_TemplateCompilerBase->callTagCompiler('include', Array, Array)
+#12 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templateparser.php(2388): Smarty_Internal_TemplateCompilerBase->compileTag('include', Array)
+#13 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templateparser.php(3101): Smarty_Internal_Templateparser->yy_r36()
+#14 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templateparser.php(3201): Smarty_Internal_Templateparser->yy_reduce(36)
+#15 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_smartytemplatecompiler.php(105): Smarty_Internal_Templateparser->doParse(10, '\n            ')
+#16 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templatecompilerbase.php(206): Smarty_Internal_SmartyTemplateCompiler->doCompile('{strip}\n\n{if !e...')
+#17 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_compile_include.php(146): Smarty_Internal_TemplateCompilerBase->compileTemplate(Object(Smarty_Internal_Template))
+#18 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templatecompilerbase.php(485): Smarty_Internal_Compile_Include->compile(Array, Object(Smarty_Internal_SmartyTemplateCompiler), Array, NULL, NULL)
+#19 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templatecompilerbase.php(259): Smarty_Internal_TemplateCompilerBase->callTagCompiler('include', Array, Array)
+#20 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templateparser.php(2388): Smarty_Internal_TemplateCompilerBase->compileTag('include', Array)
+#21 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templateparser.php(3101): Smarty_Internal_Templateparser->yy_r36()
+#22 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templateparser.php(3201): Smarty_Internal_Templateparser->yy_reduce(36)
+#23 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_smartytemplatecompiler.php(105): Smarty_Internal_Templateparser->doParse(10, '\n        ')
+#24 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templatecompilerbase.php(206): Smarty_Internal_SmartyTemplateCompiler->doCompile('{strip}\n\n{$wa->...')
+#25 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_template.php(187): Smarty_Internal_TemplateCompilerBase->compileTemplate(Object(Smarty_Internal_Template))
+#26 /home/miricouz/xx.uz/wa-system/vendors/smarty3/sysplugins/smarty_internal_templatebase.php(170): Smarty_Internal_Template->compileTemplateSource()
+#27 /home/miricouz/xx.uz/wa-system/view/waSmarty3View.class.php(144): Smarty_Internal_TemplateBase->fetch('file:home.html', NULL)
+#28 /home/miricouz/xx.uz/wa-system/controller/waViewAction.class.php(190): waSmarty3View->fetch('file:home.html', NULL)
+#29 /home/miricouz/xx.uz/wa-apps/shop/lib/actions/frontend/shopFrontend.action.php(145): waViewAction->display(false)
+#30 /home/miricouz/xx.uz/wa-system/controller/waViewController.class.php(86): shopFrontendAction->display()
+#31 /home/miricouz/xx.uz/wa-system/controller/waDefaultViewController.class.php(48): waViewController->executeAction(Object(shopFrontendAction))
+#32 /home/miricouz/xx.uz/wa-system/controller/waController.class.php(21): waDefaultViewController->execute()
+#33 /home/miricouz/xx.uz/wa-system/controller/waViewController.class.php(46): waController->run(NULL)
+#34 /home/miricouz/xx.uz/wa-system/controller/waFrontController.class.php(263): waViewController->run(NULL)
+#35 /home/miricouz/xx.uz/wa-apps/shop/lib/classes/shopFrontController.class.php(22): waFrontController->runController(Object(waDefaultViewController), NULL)
+#36 /home/miricouz/xx.uz/wa-system/controller/waFrontController.class.php(190): shopFrontController->runController(Object(waDefaultViewController), NULL)
+#37 /home/miricouz/xx.uz/wa-system/controller/waFrontController.class.php(84): waFrontController->execute(NULL, 'frontend', '')
+#38 /home/miricouz/xx.uz/wa-system/controller/waDispatch.class.php(363): waFrontController->dispatch()
+#39 /home/miricouz/xx.uz/wa-system/controller/waDispatch.class.php(34): waDispatch->dispatchFrontend('')
+#40 /home/miricouz/xx.uz/wa-system/waSystem.class.php(610): waDispatch->dispatch()
+#41 /home/miricouz/xx.uz/index.php(7): waSystem->dispatch()
+#42 {main}
+
+2022-02-22 06:59:47 185.139.137.137
+oauth.php?provider=google&state=669369d5ff303117ffd96fb799418067&code=4%2F0AX4XfWgfwry0RpXlQO0qffN5-1tN7uLVykDasIIWlXwdL3U-JQlPt-3OHJKZQYV9OCdaVA&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent
+Uncaught exception waException:
+Unable to finish auth process. (500)
+## wa-system/controller/waOAuthController.class.php(78)
+#0 wa-system/controller/waController.class.php(21): waOAuthController->execute()
+#1 wa-system/controller/waViewController.class.php(46): waController->run(NULL)
+#2 wa-system/controller/waFrontController.class.php(263): waViewController->run(NULL)
+#3 wa-system/controller/waFrontController.class.php(190): waFrontController->runController(Object(webasystOAuthController), NULL)
+#4 wa-system/controller/waDispatch.class.php(243): waFrontController->execute(NULL, 'OAuth')
+#5 wa-system/controller/waDispatch.class.php(34): waDispatch->dispatchFrontend('oauth.php')
+#6 wa-system/waSystem.class.php(610): waDispatch->dispatch()
+#7 index.php(7): waSystem->dispatch()
+#8 {main}
+
+2022-02-26 00:27:47 213.230.111.7
+cml1c/05de00f6-b746-4e61-a49d-fb958b9588fe/?type=catalog&mode=checkauth
+Uncaught exception waDbException:
+Database error. See log for details. (2002)
+## wa-system/database/waDbMysqliAdapter.class.php(37)
+#0 wa-system/database/waDbAdapter.class.php(30): waDbMysqliAdapter->connect(Array)
+#1 wa-system/database/waDbConnector.class.php(52): waDbAdapter->__construct(Array)
+#2 wa-system/database/waModel.class.php(76): waDbConnector::getConnection('default', false)
+#3 wa-system/verification/models/waVerificationChannel.model.php(17): waModel->__construct(NULL, false)
+#4 wa-system/config/waAuthConfig.class.php(770): waVerificationChannelModel->__construct()
+#5 wa-system/config/waAuthConfig.class.php(63): waAuthConfig->getVerificationChannelModel()
+#6 wa-system/config/waDomainAuthConfig.class.php(720): waAuthConfig->ensureChannelExists()
+#7 wa-system/config/waDomainAuthConfig.class.php(96): waDomainAuthConfig->ensureVerificationChannelIdsConsistency()
+#8 wa-system/config/waAuthConfig.class.php(46): waDomainAuthConfig::factory('xx.uz')
+#9 wa-system/auth/waAuth.class.php(72): waAuthConfig::factory(Array)
+#10 wa-system/waSystem.class.php(226): waAuth->__construct(Array)
+#11 wa-system/waSystem.class.php(502): waSystem->getFactory('auth', 'waAuth', Array)
+#12 wa-system/user/waAuthUser.class.php(45): waSystem->getAuth()
+#13 wa-system/user/waAuthUser.class.php(27): waAuthUser->init()
+#14 wa-system/waSystem.class.php(251): waAuthUser->__construct(NULL, Array)
+#15 wa-system/waSystem.class.php(293): waSystem::getCommonFactory('auth_user', 'waAuthUser', Array, NULL)
+#16 wa-system/waSystem.class.php(874): waSystem->getUser()
+#17 wa-system/waSystem.class.php(1098): waSystem->getApps()
+#18 wa-system/routing/waRouting.class.php(224): waSystem->appExists('shop')
+#19 wa-system/controller/waDispatch.class.php(282): waRouting->dispatch()
+#20 wa-system/controller/waDispatch.class.php(34): waDispatch->dispatchFrontend('cml1c/05de00f6-...')
+#21 wa-system/waSystem.class.php(610): waDispatch->dispatch()
+#22 index.php(7): waSystem->dispatch()
+#23 {main}
+
+2022-02-26 00:27:57 213.230.111.7
+cml1c/05de00f6-b746-4e61-a49d-fb958b9588fe/?type=catalog&mode=checkauth
+Uncaught exception waDbException:
+Database error. See log for details. (2002)
+## wa-system/database/waDbMysqliAdapter.class.php(37)
+#0 wa-system/database/waDbAdapter.class.php(30): waDbMysqliAdapter->connect(Array)
+#1 wa-system/database/waDbConnector.class.php(52): waDbAdapter->__construct(Array)
+#2 wa-system/database/waModel.class.php(76): waDbConnector::getConnection('default', false)
+#3 wa-system/verification/models/waVerificationChannel.model.php(17): waModel->__construct(NULL, false)
+#4 wa-system/config/waAuthConfig.class.php(770): waVerificationChannelModel->__construct()
+#5 wa-system/config/waAuthConfig.class.php(63): waAuthConfig->getVerificationChannelModel()
+#6 wa-system/config/waDomainAuthConfig.class.php(720): waAuthConfig->ensureChannelExists()
+#7 wa-system/config/waDomainAuthConfig.class.php(96): waDomainAuthConfig->ensureVerificationChannelIdsConsistency()
+#8 wa-system/config/waAuthConfig.class.php(46): waDomainAuthConfig::factory('xx.uz')
+#9 wa-system/auth/waAuth.class.php(72): waAuthConfig::factory(Array)
+#10 wa-system/waSystem.class.php(226): waAuth->__construct(Array)
+#11 wa-system/waSystem.class.php(502): waSystem->getFactory('auth', 'waAuth', Array)
+#12 wa-system/user/waAuthUser.class.php(45): waSystem->getAuth()
+#13 wa-system/user/waAuthUser.class.php(27): waAuthUser->init()
+#14 wa-system/waSystem.class.php(251): waAuthUser->__construct(NULL, Array)
+#15 wa-system/waSystem.class.php(293): waSystem::getCommonFactory('auth_user', 'waAuthUser', Array, NULL)
+#16 wa-system/waSystem.class.php(874): waSystem->getUser()
+#17 wa-system/waSystem.class.php(1098): waSystem->getApps()
+#18 wa-system/routing/waRouting.class.php(224): waSystem->appExists('shop')
+#19 wa-system/controller/waDispatch.class.php(282): waRouting->dispatch()
+#20 wa-system/controller/waDispatch.class.php(34): waDispatch->dispatchFrontend('cml1c/05de00f6-...')
+#21 wa-system/waSystem.class.php(610): waDispatch->dispatch()
+#22 index.php(7): waSystem->dispatch()
+#23 {main}
+
+2022-03-30 12:15:04 213.230.88.37
+Unable to instantiate widget app_id=webasyst widget=currencyquotes for user contact_id=8 (does not exist or no access to app)

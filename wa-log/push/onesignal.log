@@ -1,0 +1,103 @@
+
+2022-03-31 00:10:28 213.230.112.60
+dumped from /home/miricouz/xx.uz/wa-system/push/adapters/onesignal/onesignalPush.class.php line #418:
+[
+  'api_method' => 'apps',
+  'data' => [],
+  'request_method' => 'GET',
+  'error' => '{"errors":["Please include a case-sensitive header of Authorization: Basic \\u003cYOUR-USER-AUTH-KEY-HERE\\u003e with a valid User Auth key."],"reference":["https://documentation.onesignal.com/docs/accounts-and-keys#section-user-auth-key"]}',
+  'error_code' => 400,
+]
+
+
+2022-03-31 00:10:28 213.230.112.60
+dumped from /home/miricouz/xx.uz/wa-system/push/adapters/onesignal/onesignalPush.class.php line #418:
+[
+  'api_method' => 'apps',
+  'data' => [
+    'name' => 'WA Push xx_uz',
+    'chrome_web_origin' => 'https://xx.uz',
+    'chrome_web_default_notification_icon' => 'https://xx.uz/wa-content/img/wa-logo.png',
+  ],
+  'request_method' => 'POST',
+  'error' => '{"errors":["Please include a case-sensitive header of Authorization: Basic \\u003cYOUR-USER-AUTH-KEY-HERE\\u003e with a valid User Auth key."],"reference":["https://documentation.onesignal.com/docs/accounts-and-keys#section-user-auth-key"]}',
+  'error_code' => 400,
+]
+
+
+2022-03-31 00:10:30 213.230.112.60
+dumped from /home/miricouz/xx.uz/wa-system/push/adapters/onesignal/onesignalPush.class.php line #418:
+[
+  'api_method' => 'apps',
+  'data' => [],
+  'request_method' => 'GET',
+  'error' => '{"errors":["Please include a case-sensitive header of Authorization: Basic \\u003cYOUR-USER-AUTH-KEY-HERE\\u003e with a valid User Auth key."],"reference":["https://documentation.onesignal.com/docs/accounts-and-keys#section-user-auth-key"]}',
+  'error_code' => 400,
+]
+
+
+2022-03-31 00:14:43 213.230.112.60
+dumped from /home/miricouz/xx.uz/wa-system/push/adapters/onesignal/onesignalPush.class.php line #418:
+[
+  'api_method' => 'apps',
+  'data' => [],
+  'request_method' => 'GET',
+  'error' => '{"errors":["Please include a case-sensitive header of Authorization: Basic \\u003cYOUR-USER-AUTH-KEY-HERE\\u003e with a valid User Auth key."],"reference":["https://documentation.onesignal.com/docs/accounts-and-keys#section-user-auth-key"]}',
+  'error_code' => 400,
+]
+
+
+2022-03-31 00:19:12 213.230.112.60
+dumped from /home/miricouz/xx.uz/wa-system/push/adapters/onesignal/onesignalPush.class.php line #418:
+[
+  'api_method' => 'apps',
+  'data' => [],
+  'request_method' => 'GET',
+  'error' => '{"errors":["Please include a case-sensitive header of Authorization: Basic \\u003cYOUR-USER-AUTH-KEY-HERE\\u003e with a valid User Auth key."],"reference":["https://documentation.onesignal.com/docs/accounts-and-keys#section-user-auth-key"]}',
+  'error_code' => 400,
+]
+
+
+2022-03-31 00:20:37 213.230.112.60
+dumped from /home/miricouz/xx.uz/wa-system/push/adapters/onesignal/onesignalPush.class.php line #418:
+[
+  'api_method' => 'apps',
+  'data' => [],
+  'request_method' => 'GET',
+  'error' => '{"errors":["Please include a case-sensitive header of Authorization: Basic \\u003cYOUR-USER-AUTH-KEY-HERE\\u003e with a valid User Auth key."],"reference":["https://documentation.onesignal.com/docs/accounts-and-keys#section-user-auth-key"]}',
+  'error_code' => 400,
+]
+
+
+2022-03-31 00:43:31 213.230.112.60
+dumped from /home/miricouz/xx.uz/wa-system/push/adapters/onesignal/onesignalPush.class.php line #418:
+[
+  'api_method' => 'apps',
+  'data' => [],
+  'request_method' => 'GET',
+  'error' => '{"errors":["Please include a case-sensitive header of Authorization: Basic \\u003cYOUR-USER-AUTH-KEY-HERE\\u003e with a valid User Auth key."],"reference":["https://documentation.onesignal.com/docs/accounts-and-keys#section-user-auth-key"]}',
+  'error_code' => 400,
+]
+
+
+2022-03-31 00:43:36 213.230.112.60
+dumped from /home/miricouz/xx.uz/wa-system/push/adapters/onesignal/onesignalPush.class.php line #418:
+[
+  'api_method' => 'apps',
+  'data' => [],
+  'request_method' => 'GET',
+  'error' => '{"errors":["Please include a case-sensitive header of Authorization: Basic \\u003cYOUR-USER-AUTH-KEY-HERE\\u003e with a valid User Auth key."],"reference":["https://documentation.onesignal.com/docs/accounts-and-keys#section-user-auth-key"]}',
+  'error_code' => 400,
+]
+
+
+2022-04-01 11:20:38 195.158.15.88
+dumped from /home/miricouz/xx.uz/wa-system/push/adapters/onesignal/onesignalPush.class.php line #418:
+[
+  'api_method' => 'apps',
+  'data' => [],
+  'request_method' => 'GET',
+  'error' => '{"errors":["Please include a case-sensitive header of Authorization: Basic \\u003cYOUR-USER-AUTH-KEY-HERE\\u003e with a valid User Auth key."],"reference":["https://documentation.onesignal.com/docs/accounts-and-keys#section-user-auth-key"]}',
+  'error_code' => 400,
+]
+

@@ -1,0 +1,108 @@
+
+2022-01-18 13:13:14 185.163.26.135
+Error=Couldn't send email message with link. Check email settings.
+Channel diagnostic:
+Type: waVerificationChannelEmail
+Info: array (
+  'id' => '1',
+  'name' => 'System templates',
+  'address' => 'tis@xx.uz',
+  'type' => 'email',
+  'create_datetime' => '2021-10-16 18:18:01',
+  'system' => '1',
+)
+Stats:array (
+  'total' => 5,
+  'total_failed' => 1,
+  'last_failed' => 1,
+  'last_send_dt' => '2022-01-18 13:13:14',
+  'last_fail_dt' => '2022-01-18 13:13:14',
+)
+Context=array (
+  'line' => 1335,
+  'file' => '/home/miricouz/xx.uz/wa-system/signup/actions/waSignup.action.php',
+)
+Action=shopSignupAction
+IP=185.163.26.135
+
+2022-01-18 13:13:14 185.163.26.135
+Error=Couldn't send message with confirmation secret (link or code).
+Looks like there is no any working channel in system. Check auth settings for this domain xx.uz
+Context=array (
+  'line' => 1383,
+  'file' => '/home/miricouz/xx.uz/wa-system/signup/actions/waSignup.action.php',
+)
+Action=shopSignupAction
+IP=185.163.26.135
+
+2022-01-18 13:13:48 185.163.26.135
+Error=Couldn't send email message with link. Check email settings.
+Channel diagnostic:
+Type: waVerificationChannelEmail
+Info: array (
+  'id' => '1',
+  'name' => 'System templates',
+  'address' => 'tis@xx.uz',
+  'type' => 'email',
+  'create_datetime' => '2021-10-16 18:18:01',
+  'system' => '1',
+)
+Stats:array (
+  'total' => 6,
+  'total_failed' => 2,
+  'last_failed' => 2,
+  'last_send_dt' => '2022-01-18 13:13:48',
+  'last_fail_dt' => '2022-01-18 13:13:48',
+)
+Context=array (
+  'line' => 1335,
+  'file' => '/home/miricouz/xx.uz/wa-system/signup/actions/waSignup.action.php',
+)
+Action=shopSignupAction
+IP=185.163.26.135
+
+2022-01-18 13:13:48 185.163.26.135
+Error=Couldn't send message with confirmation secret (link or code).
+Looks like there is no any working channel in system. Check auth settings for this domain xx.uz
+Context=array (
+  'line' => 1383,
+  'file' => '/home/miricouz/xx.uz/wa-system/signup/actions/waSignup.action.php',
+)
+Action=shopSignupAction
+IP=185.163.26.135
+
+2022-01-18 13:13:50 185.163.26.135
+Error=Couldn't send email message with link. Check email settings.
+Channel diagnostic:
+Type: waVerificationChannelEmail
+Info: array (
+  'id' => '1',
+  'name' => 'System templates',
+  'address' => 'tis@xx.uz',
+  'type' => 'email',
+  'create_datetime' => '2021-10-16 18:18:01',
+  'system' => '1',
+)
+Stats:array (
+  'total' => 7,
+  'total_failed' => 3,
+  'last_failed' => 3,
+  'last_send_dt' => '2022-01-18 13:13:50',
+  'last_fail_dt' => '2022-01-18 13:13:50',
+)
+Context=array (
+  'line' => 1335,
+  'file' => '/home/miricouz/xx.uz/wa-system/signup/actions/waSignup.action.php',
+)
+Action=shopSignupAction
+IP=185.163.26.135
+
+2022-01-18 13:13:50 185.163.26.135
+Error=Couldn't send message with confirmation secret (link or code).
+Looks like there is no any working channel in system. Check auth settings for this domain xx.uz
+Context=array (
+  'line' => 1383,
+  'file' => '/home/miricouz/xx.uz/wa-system/signup/actions/waSignup.action.php',
+)
+Action=shopSignupAction
+IP=185.163.26.135

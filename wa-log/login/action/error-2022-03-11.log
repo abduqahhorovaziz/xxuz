@@ -1,0 +1,40 @@
+
+2022-03-11 16:19:42 213.230.88.240
+Error=Could not send password recovery message by email. Check email settings.
+Channel diagnostic:
+Type: waVerificationChannelEmail
+Info: array (
+  'id' => '1',
+  'name' => 'System templates',
+  'address' => 'tis@xx.uz',
+  'type' => 'email',
+  'create_datetime' => '2021-10-16 18:18:01',
+  'system' => '1',
+)
+Stats:array (
+  'total' => 17,
+  'total_failed' => 13,
+  'last_failed' => 13,
+  'last_send_dt' => '2022-03-11 16:19:42',
+  'last_fail_dt' => '2022-03-11 16:19:42',
+)
+Context=array (
+  'line' => 662,
+  'file' => '/home/miricouz/xx.uz/wa-system/login/actions/forgotpassword/waBaseForgotPassword.action.php',
+)
+Action=shopForgotpasswordAction
+IP=213.230.88.240
+UserID=NULL
+isUserAuth=NULL
+
+2022-03-11 16:19:42 213.230.88.240
+Error=Couldn't send recovery password.
+Looks like there is no any working channel in system. Check auth settings for this env=frontend and site=xx.uz
+Context=array (
+  'line' => 687,
+  'file' => '/home/miricouz/xx.uz/wa-system/login/actions/forgotpassword/waBaseForgotPassword.action.php',
+)
+Action=shopForgotpasswordAction
+IP=213.230.88.240
+UserID=NULL
+isUserAuth=NULL

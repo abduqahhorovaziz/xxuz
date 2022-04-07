@@ -1,0 +1,136 @@
+
+2021-10-17 18:23:34 213.230.111.7
+6
+Curl error 6: Could not resolve host: updates.webasyst.com
+#0 /home/miricouz/xx.uz/wa-system/file/waNet.class.php(534): waNet->handleCurlResponse(false)
+#1 /home/miricouz/xx.uz/wa-system/file/waNet.class.php(179): waNet->runCurl('https://updates...', Array, 'GET', Array, NULL)
+#2 /home/miricouz/xx.uz/wa-system/waid/waWebasystIDEndpointsConfig.class.php(61): waNet->query('https://updates...')
+#3 /home/miricouz/xx.uz/wa-system/waid/waWebasystIDEndpointsConfig.class.php(36): waWebasystIDEndpointsConfig->requestEndpoints()
+#4 /home/miricouz/xx.uz/wa-system/waid/waWebasystIDConfig.class.php(84): waWebasystIDEndpointsConfig->getEndpoints()
+#5 /home/miricouz/xx.uz/wa-system/webasyst/lib/config/webasystConfig.class.php(37): waWebasystIDConfig->keepEndpointsSynchronized()
+#6 /home/miricouz/xx.uz/wa-system/webasyst/lib/actions/backend/webasystBackendCount.controller.php(36): webasystConfig->onCount()
+#7 /home/miricouz/xx.uz/wa-system/controller/waController.class.php(21): webasystBackendCountController->execute()
+#8 /home/miricouz/xx.uz/wa-system/controller/waJsonController.class.php(28): waController->run(NULL)
+#9 /home/miricouz/xx.uz/wa-system/controller/waFrontController.class.php(263): waJsonController->run(NULL)
+#10 /home/miricouz/xx.uz/wa-system/controller/waFrontController.class.php(190): waFrontController->runController(Object(webasystBackendCountController), NULL)
+#11 /home/miricouz/xx.uz/wa-system/controller/waFrontController.class.php(84): waFrontController->execute(NULL, 'backend', 'count')
+#12 /home/miricouz/xx.uz/wa-system/controller/waDispatch.class.php(162): waFrontController->dispatch()
+#13 /home/miricouz/xx.uz/wa-system/controller/waDispatch.class.php(32): waDispatch->dispatchBackend('webasyst/')
+#14 /home/miricouz/xx.uz/wa-system/waSystem.class.php(610): waDispatch->dispatch()
+#15 /home/miricouz/xx.uz/index.php(7): waSystem->dispatch()
+#16 {main}
+
+2021-10-17 18:23:34 213.230.111.7
+array (
+  'url' => 'https://updates.webasyst.com/download/3.0/config/endpoints/?app=waid',
+  'method' => 'waWebasystIDEndpointsConfig::requestEndpoints',
+  'debug' => 
+  array (
+    'headers' => 
+    array (
+    ),
+    'body' => NULL,
+  ),
+)
+
+2021-10-17 18:23:34 213.230.111.7
+6
+Curl error 6: Could not resolve host: updates.webasyst.com
+#0 /home/miricouz/xx.uz/wa-system/file/waNet.class.php(534): waNet->handleCurlResponse(false)
+#1 /home/miricouz/xx.uz/wa-system/file/waNet.class.php(179): waNet->runCurl('https://updates...', Array, 'GET', Array, NULL)
+#2 /home/miricouz/xx.uz/wa-system/waid/waWebasystIDEndpointsConfig.class.php(61): waNet->query('https://updates...')
+#3 /home/miricouz/xx.uz/wa-system/waid/waWebasystIDEndpointsConfig.class.php(36): waWebasystIDEndpointsConfig->requestEndpoints()
+#4 /home/miricouz/xx.uz/wa-system/waid/waWebasystIDConfig.class.php(84): waWebasystIDEndpointsConfig->getEndpoints()
+#5 /home/miricouz/xx.uz/wa-system/webasyst/lib/config/webasystConfig.class.php(37): waWebasystIDConfig->keepEndpointsSynchronized()
+#6 /home/miricouz/xx.uz/wa-system/webasyst/lib/actions/backend/webasystBackendCount.controller.php(36): webasystConfig->onCount()
+#7 /home/miricouz/xx.uz/wa-system/controller/waController.class.php(21): webasystBackendCountController->execute()
+#8 /home/miricouz/xx.uz/wa-system/controller/waJsonController.class.php(28): waController->run(NULL)
+#9 /home/miricouz/xx.uz/wa-system/controller/waFrontController.class.php(263): waJsonController->run(NULL)
+#10 /home/miricouz/xx.uz/wa-system/controller/waFrontController.class.php(190): waFrontController->runController(Object(webasystBackendCountController), NULL)
+#11 /home/miricouz/xx.uz/wa-system/controller/waFrontController.class.php(84): waFrontController->execute(NULL, 'backend', 'count')
+#12 /home/miricouz/xx.uz/wa-system/controller/waDispatch.class.php(162): waFrontController->dispatch()
+#13 /home/miricouz/xx.uz/wa-system/controller/waDispatch.class.php(32): waDispatch->dispatchBackend('webasyst/')
+#14 /home/miricouz/xx.uz/wa-system/waSystem.class.php(610): waDispatch->dispatch()
+#15 /home/miricouz/xx.uz/index.php(7): waSystem->dispatch()
+#16 {main}
+
+2021-10-17 18:23:34 213.230.111.7
+array (
+  'url' => 'https://updates.webasyst.com/download/3.0/config/endpoints/?app=waid',
+  'method' => 'waWebasystIDEndpointsConfig::requestEndpoints',
+  'debug' => 
+  array (
+    'headers' => 
+    array (
+    ),
+    'body' => NULL,
+  ),
+)
+
+2021-12-21 20:32:23 213.230.111.7
+6
+Curl error 6: Could not resolve host: updates.webasyst.com
+#0 /home/miricouz/xx.uz/wa-system/file/waNet.class.php(534): waNet->handleCurlResponse(false)
+#1 /home/miricouz/xx.uz/wa-system/file/waNet.class.php(179): waNet->runCurl('https://updates...', Array, 'GET', Array, NULL)
+#2 /home/miricouz/xx.uz/wa-system/waid/waWebasystIDEndpointsConfig.class.php(61): waNet->query('https://updates...')
+#3 /home/miricouz/xx.uz/wa-system/waid/waWebasystIDEndpointsConfig.class.php(36): waWebasystIDEndpointsConfig->requestEndpoints()
+#4 /home/miricouz/xx.uz/wa-system/waid/waWebasystIDConfig.class.php(84): waWebasystIDEndpointsConfig->getEndpoints()
+#5 /home/miricouz/xx.uz/wa-system/webasyst/lib/config/webasystConfig.class.php(37): waWebasystIDConfig->keepEndpointsSynchronized()
+#6 /home/miricouz/xx.uz/wa-system/webasyst/lib/actions/backend/webasystBackendCount.controller.php(36): webasystConfig->onCount()
+#7 /home/miricouz/xx.uz/wa-system/controller/waController.class.php(21): webasystBackendCountController->execute()
+#8 /home/miricouz/xx.uz/wa-system/controller/waJsonController.class.php(28): waController->run(NULL)
+#9 /home/miricouz/xx.uz/wa-system/controller/waFrontController.class.php(263): waJsonController->run(NULL)
+#10 /home/miricouz/xx.uz/wa-system/controller/waFrontController.class.php(190): waFrontController->runController(Object(webasystBackendCountController), NULL)
+#11 /home/miricouz/xx.uz/wa-system/controller/waFrontController.class.php(84): waFrontController->execute(NULL, 'backend', 'count')
+#12 /home/miricouz/xx.uz/wa-system/controller/waDispatch.class.php(162): waFrontController->dispatch()
+#13 /home/miricouz/xx.uz/wa-system/controller/waDispatch.class.php(32): waDispatch->dispatchBackend('webasyst/')
+#14 /home/miricouz/xx.uz/wa-system/waSystem.class.php(610): waDispatch->dispatch()
+#15 /home/miricouz/xx.uz/index.php(7): waSystem->dispatch()
+#16 {main}
+
+2021-12-21 20:32:23 213.230.111.7
+array (
+  'url' => 'https://updates.webasyst.com/download/3.0/config/endpoints/?app=waid',
+  'method' => 'waWebasystIDEndpointsConfig::requestEndpoints',
+  'debug' => 
+  array (
+    'headers' => 
+    array (
+    ),
+    'body' => NULL,
+  ),
+)
+
+2022-02-10 03:18:29 213.230.111.7
+28
+Curl error 28: Connection timed out after 30001 milliseconds
+#0 /home/miricouz/xx.uz/wa-system/file/waNet.class.php(534): waNet->handleCurlResponse(false)
+#1 /home/miricouz/xx.uz/wa-system/file/waNet.class.php(179): waNet->runCurl('https://updates...', Array, 'GET', Array, NULL)
+#2 /home/miricouz/xx.uz/wa-system/waid/waWebasystIDEndpointsConfig.class.php(61): waNet->query('https://updates...')
+#3 /home/miricouz/xx.uz/wa-system/waid/waWebasystIDEndpointsConfig.class.php(36): waWebasystIDEndpointsConfig->requestEndpoints()
+#4 /home/miricouz/xx.uz/wa-system/waid/waWebasystIDConfig.class.php(84): waWebasystIDEndpointsConfig->getEndpoints()
+#5 /home/miricouz/xx.uz/wa-system/webasyst/lib/config/webasystConfig.class.php(37): waWebasystIDConfig->keepEndpointsSynchronized()
+#6 /home/miricouz/xx.uz/wa-system/webasyst/lib/actions/backend/webasystBackendCount.controller.php(36): webasystConfig->onCount()
+#7 /home/miricouz/xx.uz/wa-system/controller/waController.class.php(21): webasystBackendCountController->execute()
+#8 /home/miricouz/xx.uz/wa-system/controller/waJsonController.class.php(28): waController->run(NULL)
+#9 /home/miricouz/xx.uz/wa-system/controller/waFrontController.class.php(263): waJsonController->run(NULL)
+#10 /home/miricouz/xx.uz/wa-system/controller/waFrontController.class.php(190): waFrontController->runController(Object(webasystBackendCountController), NULL)
+#11 /home/miricouz/xx.uz/wa-system/controller/waFrontController.class.php(84): waFrontController->execute(NULL, 'backend', 'count')
+#12 /home/miricouz/xx.uz/wa-system/controller/waDispatch.class.php(162): waFrontController->dispatch()
+#13 /home/miricouz/xx.uz/wa-system/controller/waDispatch.class.php(32): waDispatch->dispatchBackend('webasyst/')
+#14 /home/miricouz/xx.uz/wa-system/waSystem.class.php(610): waDispatch->dispatch()
+#15 /home/miricouz/xx.uz/index.php(7): waSystem->dispatch()
+#16 {main}
+
+2022-02-10 03:18:29 213.230.111.7
+array (
+  'url' => 'https://updates.webasyst.com/download/3.0/config/endpoints/?app=waid',
+  'method' => 'waWebasystIDEndpointsConfig::requestEndpoints',
+  'debug' => 
+  array (
+    'headers' => 
+    array (
+    ),
+    'body' => NULL,
+  ),
+)
